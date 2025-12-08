@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Humanities one word do
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
-| studies.app         | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.co          | expiring  |          | 84%    | 7      | GoDaddy.com, LLC | 20/07/2010 18:10 | 19/07/2025 23:59 |
-| studies.dev         | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.expert      | available |          | 84%    | 7      |                  |                  |                  |
-| studies.gg          | available |          | 84%    | 7      |                  |                  |                  |
-| studies.me          | expiring  |          | 84%    | 7      | Dynadot Inc      | 17/07/2008 21:54 | 17/07/2025 21:54 |
-| studies.ninja       | available |          | 84%    | 7      |                  |                  |                  |
-| studies.online      | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.org         | resell    |          | 84%    | 7      | GoDaddy.com, LLC | 03/04/1998 05:00 | 02/04/2032 05:00 |
-| studies.pro         | resell    |          | 84%    | 7      | Epik LLC         | 20/05/2023 15:15 | 20/05/2026 15:15 |
-| studies.site        | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.so          | available |          | 84%    | 7      |                  |                  |                  |
-| studies.store       | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.tech        | premium   |          | 84%    | 7      |                  |                  |                  |
-| history.accountant  | premium   | 94       | 29%    | 7      |                  |                  |                  |
-| history.accountants | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.adult       | premium   | 94       | 29%    | 7      |                  |                  |                  |
-| history.ag          | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.airforce    | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.apartments  | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.archi       | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.art         | premium   | 94       | 29%    | 7      |                  |                  |                  |
-| history.associates  | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.at          | premium   | 94       | 29%    | 7      |                  |                  |                  |
-| history.attorney    | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.auction     | resell    | 94       | 29%    | 7      | Sav.com, LLC     | 18/11/2024 17:08 | 18/11/2025 17:08 |
-| history.auto        | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.baby        | resell    | 94       | 29%    | 7      | Dynadot LLC      | 02/05/2025 23:22 | 02/05/2026 23:59 |
-| history.bar         | available | 94       | 29%    | 7      |                  |                  |                  |
-| history.beauty      | resell    | 94       | 29%    | 7      | Spaceship, Inc.  | 26/01/2025 01:42 | 26/01/2026 23:59 |
+| Domain              | Status    | Attract. | Demand | Length | Registrar                  | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | -------------------------- | ---------------- | ---------------- |
+| studies.app         | premium   |          | 84%    | 7      |                            |                  |                  |
+| studies.co          | expiring  |          | 84%    | 7      | GoDaddy.com, LLC           | 20/07/2010 18:10 | 19/07/2025 23:59 |
+| studies.dev         | premium   |          | 84%    | 7      |                            |                  |                  |
+| studies.expert      | available |          | 84%    | 7      |                            |                  |                  |
+| studies.gg          | available |          | 84%    | 7      |                            |                  |                  |
+| studies.me          | expiring  |          | 84%    | 7      | Dynadot Inc                | 17/07/2008 21:54 | 17/07/2025 21:54 |
+| studies.ninja       | available |          | 84%    | 7      |                            |                  |                  |
+| studies.online      | premium   |          | 84%    | 7      |                            |                  |                  |
+| studies.org         | resell    |          | 84%    | 7      | GoDaddy.com, LLC           | 03/04/1998 05:00 | 02/04/2032 05:00 |
+| studies.pro         | resell    |          | 84%    | 7      | Epik LLC                   | 20/05/2023 15:15 | 20/05/2026 15:15 |
+| studies.site        | premium   |          | 84%    | 7      |                            |                  |                  |
+| studies.so          | available |          | 84%    | 7      |                            |                  |                  |
+| studies.store       | premium   |          | 84%    | 7      |                            |                  |                  |
+| studies.tech        | premium   |          | 84%    | 7      |                            |                  |                  |
+| history.accountant  | premium   | 94       | 27%    | 7      |                            |                  |                  |
+| history.accountants | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.adult       | premium   | 94       | 27%    | 7      |                            |                  |                  |
+| history.ag          | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.airforce    | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.apartments  | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.archi       | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.art         | premium   | 94       | 27%    | 7      |                            |                  |                  |
+| history.associates  | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.at          | premium   | 94       | 27%    | 7      |                            |                  |                  |
+| history.attorney    | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.auction     | resell    | 94       | 27%    | 7      | Sav.com, LLC               | 18/11/2024 17:08 | 18/11/2026 17:08 |
+| history.auto        | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.baby        | resell    | 94       | 27%    | 7      | Dynadot LLC                | 02/05/2025 23:22 | 02/05/2026 23:59 |
+| history.bar         | available | 94       | 27%    | 7      |                            |                  |                  |
+| history.bargains    | expiring  | 94       | 27%    | 7      | Squarespace Domains II LLC | 07/01/2023 10:36 | 07/01/2026 10:36 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Humanities-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Humanities one word do
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
