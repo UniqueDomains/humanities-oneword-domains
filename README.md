@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Humanities one word do
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar        | Created          | Expires          |
-| ----------------- | --------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------- |
-| studies.app       | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.co        | expiring  |          | 84%    | 7      | GoDaddy.com, LLC | 20/07/2010 18:10 | 19/07/2025 23:59 |
-| studies.dev       | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.expert    | available |          | 84%    | 7      |                  |                  |                  |
-| studies.gg        | available |          | 84%    | 7      |                  |                  |                  |
-| studies.me        | expiring  |          | 84%    | 7      | Dynadot Inc      | 17/07/2008 21:54 | 17/07/2025 21:54 |
-| studies.ninja     | available |          | 84%    | 7      |                  |                  |                  |
-| studies.online    | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.org       | resell    |          | 84%    | 7      | GoDaddy.com, LLC | 03/04/1998 05:00 | 02/04/2032 05:00 |
-| studies.pro       | resell    |          | 84%    | 7      | Epik LLC         | 20/05/2023 15:15 | 20/05/2026 15:15 |
-| studies.site      | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.so        | available |          | 84%    | 7      |                  |                  |                  |
-| studies.store     | premium   |          | 84%    | 7      |                  |                  |                  |
-| studies.tech      | premium   |          | 84%    | 7      |                  |                  |                  |
-| history.film      | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.financial | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.fishing   | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.fit       | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.fitness   | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.flights   | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.florist   | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.flowers   | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.foo       | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.food      | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.forsale   | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.forum     | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.free      | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.fun       | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.furniture | available | 94       | 27%    | 7      |                  |                  |                  |
-| history.futbol    | available | 94       | 27%    | 7      |                  |                  |                  |
+| Domain              | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| studies.app         | premium   |          | 84%    | 7      |                                                     |                  |                  |
+| studies.co          | expiring  |          | 84%    | 7      | GoDaddy.com, LLC                                    | 20/07/2010 18:10 | 19/07/2025 23:59 |
+| studies.dev         | premium   |          | 84%    | 7      |                                                     |                  |                  |
+| studies.expert      | available |          | 84%    | 7      |                                                     |                  |                  |
+| studies.gg          | available |          | 84%    | 7      |                                                     |                  |                  |
+| studies.me          | expiring  |          | 84%    | 7      | Dynadot Inc                                         | 17/07/2008 21:54 | 17/07/2025 21:54 |
+| studies.ninja       | available |          | 84%    | 7      |                                                     |                  |                  |
+| studies.online      | premium   |          | 84%    | 7      |                                                     |                  |                  |
+| studies.org         | resell    |          | 84%    | 7      | GoDaddy.com, LLC                                    | 03/04/1998 05:00 | 02/04/2032 05:00 |
+| studies.pro         | resell    |          | 84%    | 7      | Epik LLC                                            | 20/05/2023 15:15 | 20/05/2026 15:15 |
+| studies.site        | premium   |          | 84%    | 7      |                                                     |                  |                  |
+| studies.so          | available |          | 84%    | 7      |                                                     |                  |                  |
+| studies.store       | premium   |          | 84%    | 7      |                                                     |                  |                  |
+| studies.tech        | premium   |          | 84%    | 7      |                                                     |                  |                  |
+| history.doctor      | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.dog         | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.download    | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.email       | expiring  | 94       | 27%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. | 15/12/2023 15:15 | 15/12/2025 15:15 |
+| history.engineer    | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.engineering | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.enterprises | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.equipment   | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.esq         | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.exchange    | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.expert      | resell    | 94       | 27%    | 7      | NameCheap, Inc.                                     | 22/09/2025 09:53 | 22/09/2026 09:53 |
+| history.fail        | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.family      | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.fans        | available | 94       | 27%    | 7      |                                                     |                  |                  |
+| history.farm        | sold      | 94       | 27%    | 7      | DNC Holdings, Inc.                                  | 13/09/2018 02:46 | 13/09/2026 02:46 |
+| history.fashion     | available | 94       | 27%    | 7      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Humanities-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [Humanities one word do
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
