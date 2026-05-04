@@ -1,22 +1,22 @@
-# Humanities One-Word Domains (36,735)
+# Humanities Keyword Domains (25,915)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C735%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C915%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of humanities one-word domains from Unique Domains.
+This selection covers 25,915 domains tied to humanities terms and concepts, spread across 505 TLDs. Updated daily. The median ask is $700.49, with examples such as grammar.biz, culture.paris, and speech.protection.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **36,735 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,915 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 36,735 domains
+**Public extract:** 1,000 rows · **Live catalog:** 25,915 domains · **Median ask:** $700.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Humanities`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| art.hospital  | available | $71.98    | —             | 90             | 55     | 3      | namecheap                                               |
-| art.guide     | resell    | —         | —             | 90             | 53     | 3      | Porkbun LLC                                             |
-| art.yachts    | premium   | $2,600    | $2,600        | 90             | 52     | 3      | namecheap                                               |
-| art.voting    | available | $1,448    | —             | 90             | 52     | 3      | namecheap                                               |
-| art.zone      | resell    | —         | —             | 90             | 52     | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| art.wiki      | premium   | $1,722.50 | $1,722.50     | 90             | 52     | 3      | namecheap                                               |
-| art.viajes    | available | $57.98    | —             | 90             | 52     | 3      | namecheap                                               |
-| art.xxx       | resell    | —         | —             | 90             | 52     | 3      | Name.com, Inc.                                          |
-| art.webcam    | premium   | $650      | $84.50        | 90             | 52     | 3      | namecheap                                               |
-| art.vana      | available | $2,498    | —             | 90             | 52     | 3      | namecheap                                               |
-| art.world     | resell    | —         | —             | 90             | 52     | 3      | Dynadot Inc                                             |
-| art.vacations | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                                               |
-| art.tires     | available | $110.98   | —             | 90             | 52     | 3      | namecheap                                               |
-| art.works     | resell    | —         | —             | 90             | 52     | 3      | Porkbun LLC                                             |
-| art.uno       | premium   | $6,500    | $6,500        | 90             | 52     | 3      | namecheap                                               |
-| art.theatre   | available | $620      | —             | 90             | 52     | 3      | namecheap                                               |
-| art.wedding   | resell    | —         | —             | 90             | 52     | 3      | Spaceship, Inc.                                         |
-| art.trading   | premium   | $3,125    | —             | 90             | 52     | 3      | name.com                                                |
-| art.storage   | available | $858      | —             | 90             | 52     | 3      | namecheap                                               |
-| art.website   | resell    | —         | —             | 90             | 52     | 3      | NAME DOT STORE INC                                      |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| art.shopping   | premium   | —         | —             | 90             | 51     | 3      | —                                                         |
+| studies.so     | available | $68.98    | —             | —              | 84     | 7      | namecheap                                                 |
+| studies.org    | resell    | $101,200  | $21.99        | —              | 13     | 7      | GoDaddy.com, LLC                                          |
+| studies.site   | premium   | $781.25   | $3,125        | —              | 84     | 7      | name.com                                                  |
+| art.hospital   | available | $71.98    | —             | 90             | 55     | 3      | namecheap                                                 |
+| art.guide      | resell    | —         | —             | 90             | 53     | 3      | Porkbun LLC                                               |
+| studies.online | premium   | $781.25   | $3,125        | —              | 84     | 7      | name.com                                                  |
+| art.theatre    | available | $620      | —             | 90             | 51     | 3      | namecheap                                                 |
+| art.builders   | resell    | —         | —             | 90             | 52     | 3      | Spaceship, Inc.                                           |
+| studies.app    | premium   | $123.75   | $123.75       | —              | 84     | 7      | name.com                                                  |
+| art.storage    | available | $858      | —             | 90             | 51     | 3      | namecheap                                                 |
+| art.tel        | resell    | —         | —             | 90             | 51     | 3      | GoDaddy.com, LLC                                          |
+| art.tech       | premium   | $3,125    | $12,500       | 90             | 51     | 3      | name.com                                                  |
+| art.shiksha    | available | $69.98    | —             | 90             | 51     | 3      | namecheap                                                 |
+| art.team       | resell    | —         | —             | 90             | 51     | 3      | Spaceship, Inc.                                           |
+| art.talk       | premium   | $3,250    | $3,250        | 90             | 51     | 3      | namecheap                                                 |
+| art.security   | available | $2,950    | —             | 90             | 51     | 3      | namecheap                                                 |
+| art.taxi       | resell    | —         | —             | 90             | 51     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| art.surgery    | premium   | $520      | $520          | 90             | 51     | 3      | namecheap                                                 |
+| art.republican | available | $43.98    | —             | 90             | 51     | 3      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 36,735 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 25,915 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is centered on domains that contain humanities-related keywords, with a wide mix of extensions and naming styles. The sample includes direct academic or cultural terms such as grammar.biz and culture.paris, alongside more unusual pairings like speech.protection and art.shopping. For founders, the main question is whether the keyword-extension combination feels credible, memorable, and easy to own with confidence. For investors, the key check is whether the ask leaves room versus likely buyer appeal, especially given the median ask of $700.49. When comparing these domains, weigh extension quality, renewal exposure, and whether the phrase reads naturally enough to support real end-user demand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Median ask is $700.49 across this humanities keyword set
+- Selection spans 505 TLDs with mainstream and niche extensions
+- Check if the keyword and extension read as a natural phrase
+- Favor clear terms over awkward or weak keyword pairings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Humanities One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Humanities Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
