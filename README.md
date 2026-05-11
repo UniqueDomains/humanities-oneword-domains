@@ -1,10 +1,10 @@
-# Humanities Keyword Domains (25,960)
+# Humanities Keyword Domains (25,961)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C960%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C961%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 25,915 domains tied to humanities terms and concepts, spread across 505 TLDs. Updated daily. The median ask is $700.49, with examples such as grammar.biz, culture.paris, and speech.protection.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,960 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,961 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,960 domains · **Median ask:** $700.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 25,961 domains · **Median ask:** $700.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/sector/Humanities`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | studies.app    | premium   | $123.75   | $123.75       | —              | 84     | 7      | name.com                                                  |
 | art.storage    | available | $858      | —             | 90             | 51     | 3      | namecheap                                                 |
 | art.tel        | resell    | —         | —             | 90             | 51     | 3      | GoDaddy.com, LLC                                          |
-| art.tech       | premium   | $3,125    | $12,500       | 90             | 51     | 3      | name.com                                                  |
+| art.tickets    | premium   | $1,950    | $1,950        | 90             | 51     | 3      | namecheap                                                 |
 | art.shiksha    | available | $69.98    | —             | 90             | 51     | 3      | namecheap                                                 |
 | art.team       | resell    | —         | —             | 90             | 51     | 3      | Spaceship, Inc.                                           |
-| art.talk       | premium   | $3,250    | $3,250        | 90             | 51     | 3      | namecheap                                                 |
+| art.tech       | premium   | $3,125    | $12,500       | 90             | 51     | 3      | name.com                                                  |
 | art.security   | available | $2,950    | —             | 90             | 51     | 3      | namecheap                                                 |
 | art.taxi       | resell    | —         | —             | 90             | 51     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| art.surgery    | premium   | $520      | $520          | 90             | 51     | 3      | namecheap                                                 |
+| art.talk       | premium   | $3,250    | $3,250        | 90             | 51     | 3      | namecheap                                                 |
 | art.republican | available | $43.98    | —             | 90             | 51     | 3      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,960 live domains                        |
+| 1,000-row public sample | 25,961 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Humanities Keyword Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Humanities Keyword Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
