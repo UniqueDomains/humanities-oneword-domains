@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (122,526)
+# One-Word Humanities Domain Names (123,933)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-122%2C526%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-123%2C933%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **122,526 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **123,933 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 122,526 domains · **Median ask:** $647.50 · **High-demand under $2,500:** 490
+**Public extract:** 1,000 rows · **Live catalog:** 123,933 domains · **Median ask:** $632.31 · **High-demand under $2,500:** 490
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
 | arts.ryukyu        | available | $22.98    | —             | high           | low    | 4      | namecheap               |
 | art.works          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC             |
-| pre.institute      | premium   | $28       | $28           | medium         | low    | 3      | namecheap               |
+| texts.channel      | premium   | $73.75    | —             | medium         | low    | 5      | name.com                |
 | past.ryukyu        | available | $22.98    | —             | high           | low    | 4      | namecheap               |
 | code.international | resell    | —         | —             | high           | medium | 4      | Unstoppable Domains Inc |
-| texts.channel      | premium   | $73.75    | —             | medium         | low    | 5      | name.com                |
-| forms.shiksha      | available | $19.99    | —             | medium         | low    | 5      | name.com                |
-| life.school        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC             |
 | texts.day          | premium   | $73.75    | —             | medium         | low    | 5      | name.com                |
 | moral.ryukyu       | available | $22.98    | —             | medium         | low    | 5      | namecheap               |
-| life.tools         | resell    | —         | —             | high           | medium | 4      | Porkbun LLC             |
+| life.school        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC             |
 | texts.dealer       | premium   | $2,170    | $2,800        | medium         | low    | 5      | namecheap               |
 | norms.shiksha      | available | $19.99    | —             | medium         | low    | 5      | name.com                |
-| music.style        | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC            |
+| life.tools         | resell    | —         | —             | high           | medium | 4      | Porkbun LLC             |
 | texts.diy          | premium   | $87.50    | —             | medium         | low    | 5      | name.com                |
 | prose.foundation   | available | $5.99     | —             | medium         | low    | 5      | name.com                |
 | world.farm         | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC        |
 | texts.esq          | premium   | $111.25   | —             | medium         | low    | 5      | name.com                |
 | prose.gg           | available | $82.98    | —             | medium         | low    | 5      | namecheap               |
 | artist.llc         | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC        |
+| texts.food         | premium   | $98       | $140          | medium         | low    | 5      | namecheap               |
+| texts.academy      | available | $21.99    | —             | medium         | low    | 5      | name.com                |
+| events.academy     | resell    | —         | —             | medium         | low    | 6      | Sav.com, LLC - 2        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 122,526 live domains                       |
+| 1,000-row public sample | 123,933 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 490 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
