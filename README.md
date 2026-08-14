@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (126,679)
+# One-Word Humanities Domain Names (127,373)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-126%2C679%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-127%2C373%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **126,679 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **127,373 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 126,679 domains · **Median ask:** $620.94 · **High-demand under $2,500:** 490
+**Public extract:** 1,000 rows · **Live catalog:** 127,373 domains · **Median ask:** $619.23 · **High-demand under $2,500:** 490
 
 **Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| and.shiksha   | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| theory.me     | resell    | $3,436.20 | $27.99        | high           | low    | 6      | Dynadot Inc                                  |
-| and.education | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo                                     |
-| art.desi      | available | $22.98    | —             | high           | medium | 3      | namecheap                                    |
-| language.pw   | resell    | $5,748.85 | $27.99        | high           | low    | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
-| and.institute | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| art.shiksha   | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| art.ac        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
-| and.schule    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| arts.irish    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| art.academy   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| art.college   | premium   | $13,000   | $13,000       | high           | medium | 3      | namecheap                                    |
-| arts.schule   | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| art.ai        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| art.degree    | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
-| epic.degree   | available | $14.99    | —             | high           | medium | 4      | name.com                                     |
-| art.gallery   | resell    | —         | —             | high           | low    | 3      | 1API GmbH                                    |
-| art.expert    | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap                                    |
-| epic.schule   | available | $19.99    | —             | high           | medium | 4      | name.com                                     |
-| art.institute | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| art.shiksha    | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
+| art.institute  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
+| art.degree     | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
+| code.realty    | available | $109.99   | $299          | high           | medium | 4      | namesilo                                     |
+| fine.school    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| past.study     | premium   | $116      | $116          | high           | low    | 4      | namesilo                                     |
+| fine.institute | available | $9.99     | $35.99        | high           | low    | 4      | name.com                                     |
+| text.delivery  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
+| study.degree   | premium   | $78       | $78           | high           | low    | 5      | namecheap                                    |
+| fine.schule    | available | $19.99    | $41.99        | high           | low    | 4      | name.com                                     |
+| text.school    | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| study.shiksha  | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo                                     |
+| past.degree    | available | $14.99    | —             | high           | low    | 4      | name.com                                     |
+| music.style    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                 |
+| texts.click    | premium   | $87.50    | —             | medium         | low    | 5      | name.com                                     |
+| past.education | available | $34.99    | $34.99        | high           | low    | 4      | namesilo                                     |
+| story.run      | resell    | —         | —             | high           | medium | 5      | UM DOMAINS PTE. LTD                          |
+| texts.esq      | premium   | $111.25   | —             | medium         | low    | 5      | name.com                                     |
+| past.institute | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| story.works    | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 126,679 live domains                       |
+| 1,000-row public sample | 127,373 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 490 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
