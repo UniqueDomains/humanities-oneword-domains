@@ -16,7 +16,7 @@ This is a curated set of one-word Humanities domain names spanning 506 different
 
 **Public extract:** 1,000 rows · **Live catalog:** 131,722 domains · **Median ask:** $601.36 · **High-demand under $2,500:** 490
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| art.desi      | available | $22.98    | —             | high           | medium | 3      | namecheap                                    |
-| language.pw   | resell    | $5,748.85 | $27.99        | high           | low    | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
-| and.institute | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| art.shiksha   | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
-| art.ac        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
-| and.schule    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| arts.irish    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| art.academy   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| art.college   | premium   | $13,000   | $13,000       | high           | medium | 3      | namecheap                                    |
-| arts.schule   | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
-| art.ai        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                  |
-| art.degree    | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
-| epic.degree   | available | $14.99    | —             | high           | medium | 4      | name.com                                     |
-| art.gallery   | resell    | —         | —             | high           | low    | 3      | 1API GmbH                                    |
-| art.expert    | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap                                    |
-| epic.schule   | available | $19.99    | —             | high           | medium | 4      | name.com                                     |
-| art.institute | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
-| art.phd       | premium   | $1,688.70 | $1,688.70     | high           | medium | 3      | namecheap                                    |
-| epic.shiksha  | available | $19.99    | —             | high           | medium | 4      | name.com                                     |
-| art.lat       | resell    | —         | —             | high           | medium | 3      | 101domain GRS Limited                        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| art.shiksha    | available | $19.99    | —             | high           | medium | 3      | name.com                                                |
+| art.ac         | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                             |
+| art.degree     | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                               |
+| arts.irish     | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| art.institute  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                             |
+| arts.degree    | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                                |
+| arts.schule    | available | $19.99    | —             | high           | low    | 4      | name.com                                                |
+| art.lat        | resell    | —         | —             | high           | medium | 3      | 101domain GRS Limited                                   |
+| arts.school    | premium   | $560      | $1,120        | high           | low    | 4      | namecheap                                               |
+| fine.degree    | available | $14.99    | $64.99        | high           | low    | 4      | name.com                                                |
+| fine.school    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| arts.shiksha   | premium   | $750      | —             | high           | low    | 4      | name.com                                                |
+| fine.education | available | $39.99    | $45.99        | high           | low    | 4      | name.com                                                |
+| past.vip       | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| arts.study     | premium   | $6,250    | —             | high           | low    | 4      | name.com                                                |
+| fine.institute | available | $9.99     | $35.99        | high           | low    | 4      | name.com                                                |
+| text.delivery  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                         |
+| fine.kiwi      | premium   | $54.07    | $54.07        | high           | low    | 4      | name.com                                                |
+| fine.irish     | available | $9.99     | $27.99        | high           | low    | 4      | name.com                                                |
+| text.it        | resell    | —         | —             | high           | low    | 4      | —                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-08-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
