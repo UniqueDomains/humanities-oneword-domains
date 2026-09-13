@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (151,735)
+# One-Word Humanities Domain Names (152,956)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-151%2C735%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-152%2C956%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **151,735 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **152,956 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 151,735 domains · **Median ask:** $555.57 · **High-demand under $2,500:** 455
+**Public extract:** 1,000 rows · **Live catalog:** 152,956 domains · **Median ask:** $551.93 · **High-demand under $2,500:** 455
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | art.shiksha    | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
 | art.institute  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
-| art.degree     | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
-| fine.degree    | available | $14.99    | $64.99        | high           | low    | 4      | name.com                                     |
-| art.lat        | resell    | —         | —             | high           | medium | 3      | 101domain GRS Limited                        |
-| fine.study     | premium   | $125      | $125          | high           | low    | 4      | name.com                                     |
-| fine.education | available | $39.99    | $45.99        | high           | low    | 4      | name.com                                     |
-| fine.school    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | past.study     | premium   | $116      | $116          | high           | low    | 4      | namesilo                                     |
-| fine.institute | available | $9.99     | $35.99        | high           | low    | 4      | name.com                                     |
-| text.delivery  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
-| novel.phd      | premium   | $427.70   | $427.70       | medium         | low    | 5      | namecheap                                    |
-| fine.schule    | available | $19.99    | $41.99        | high           | low    | 4      | name.com                                     |
-| text.it        | resell    | —         | —             | high           | low    | 4      | —                                            |
-| novel.review   | premium   | $6,500    | $130          | medium         | low    | 5      | namecheap                                    |
-| fine.shiksha   | available | $19.99    | $74.99        | high           | low    | 4      | name.com                                     |
+| code.realty    | available | $109.99   | $299          | high           | medium | 4      | namesilo                                     |
 | text.school    | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| novel.london   | premium   | $138.07   | $31.82        | medium         | low    | 5      | namesilo                                     |
+| past.education | available | $34.99    | $34.99        | high           | low    | 4      | namesilo                                     |
+| music.style    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                                 |
+| novel.page     | premium   | $318.72   | $318.72       | medium         | low    | 5      | namesilo                                     |
+| past.institute | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| novel.pw       | resell    | —         | —             | medium         | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| novel.phd      | premium   | $427.70   | $427.70       | medium         | low    | 5      | namecheap                                    |
+| past.school    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| story.run      | resell    | —         | —             | high           | medium | 5      | UM DOMAINS PTE. LTD                          |
+| novel.prof     | premium   | $427.70   | $427.70       | medium         | low    | 5      | namecheap                                    |
+| past.schule    | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| story.works    | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                  |
 | novel.science  | premium   | $1,107    | $116          | medium         | low    | 5      | namesilo                                     |
-| past.degree    | available | $14.99    | —             | high           | low    | 4      | name.com                                     |
-| human.school   | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| past.shiksha   | available | $19.99    | —             | high           | low    | 4      | name.com                                     |
+| study.irish    | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 151,735 live domains                       |
+| 1,000-row public sample | 152,956 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 455 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
