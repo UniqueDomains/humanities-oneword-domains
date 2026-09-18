@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (106,077)
+# One-Word Humanities Domain Names (108,418)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-106%2C077%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-108%2C418%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **106,077 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **108,418 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 106,077 domains · **Median ask:** $590.34 · **High-demand under $2,500:** 363
+**Public extract:** 1,000 rows · **Live catalog:** 108,418 domains · **Median ask:** $558.58 · **High-demand under $2,500:** 355
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| classic.contact     | available | $13.98    | $16.78        | medium         | low    | 7      | namecheap           |
-| faith.solutions     | resell    | —         | —             | high           | low    | 5      | UM DOMAINS PTE. LTD |
-| art.shop            | premium   | $12,500   | —             | high           | medium | 3      | name.com            |
-| classic.desi        | available | $19.98    | $22.98        | medium         | low    | 7      | namecheap           |
-| music.style         | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC        |
-| classic.business    | premium   | $118.80   | $118.80       | medium         | low    | 7      | namesilo            |
-| classic.law         | available | $95.99    | $95.99        | medium         | low    | 7      | namesilo            |
-| design.express      | resell    | —         | —             | high           | medium | 6      | Porkbun LLC         |
-| classic.golf        | premium   | $500      | $500          | medium         | low    | 7      | name.com            |
-| classic.reisen      | available | $3.99     | $20.99        | medium         | low    | 7      | namesilo            |
-| classic.asia        | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc.     |
-| classic.llc         | premium   | $625      | $625          | medium         | low    | 7      | name.com            |
-| classic.rodeo       | available | $12.99    | $12.99        | medium         | low    | 7      | namesilo            |
-| classic.best        | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc.     |
-| classic.study       | premium   | $625      | $625          | medium         | low    | 7      | name.com            |
-| culture.irish       | available | $9.99     | —             | high           | medium | 7      | name.com            |
-| classic.catering    | resell    | —         | —             | medium         | low    | 7      | Dynadot Inc         |
-| classic.theater     | premium   | $242      | $242          | medium         | low    | 7      | namesilo            |
-| culture.ryukyu      | available | $17.98    | $22.98        | medium         | low    | 7      | namecheap           |
-| classic.enterprises | resell    | —         | —             | medium         | low    | 7      | Dynadot Inc         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| language.florist | available | $14.99    | —             | high           | low    | 8      | name.com                                     |
+| art.desi         | available | $22.98    | —             | high           | medium | 3      | namecheap                                    |
+| language.pw      | resell    | $5,748.85 | $27.99        | high           | low    | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
+| art.college      | premium   | $13,000   | $13,000       | high           | medium | 3      | namecheap                                    |
+| art.shiksha      | available | $19.99    | —             | high           | medium | 3      | name.com                                     |
+| art.ac           | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
+| art.degree       | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
+| culture.hamburg  | available | $69.98    | $73.98        | medium         | low    | 7      | namecheap                                    |
+| art.gallery      | resell    | —         | —             | high           | low    | 3      | 1API GmbH                                    |
+| art.expert       | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap                                    |
+| culture.irish    | available | $9.99     | —             | high           | medium | 7      | name.com                                     |
+| art.institute    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
+| art.phd          | premium   | $1,688.70 | $1,688.70     | high           | medium | 3      | namecheap                                    |
+| culture.report   | available | $14.99    | —             | high           | medium | 7      | name.com                                     |
+| art.lat          | resell    | —         | —             | high           | medium | 3      | 101domain GRS Limited                        |
+| art.red          | premium   | $780      | $780          | high           | medium | 3      | namecheap                                    |
+| culture.ryukyu   | available | $17.98    | $22.98        | medium         | low    | 7      | namecheap                                    |
+| art.pink         | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
+| art.shop         | premium   | $12,500   | —             | high           | medium | 3      | name.com                                     |
+| culture.travel   | available | $39.99    | —             | high           | low    | 7      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 106,077 live domains                       |
+| 1,000-row public sample | 108,418 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 363 high-demand names under $2,500         |
+| Basic exported fields   | 355 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
