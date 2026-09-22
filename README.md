@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (111,561)
+# One-Word Humanities Domain Names (114,356)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-111%2C561%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-114%2C356%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **111,561 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **114,356 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 111,561 domains · **Median ask:** $540.71 · **High-demand under $2,500:** 287
+**Public extract:** 1,000 rows · **Live catalog:** 114,356 domains · **Median ask:** $531.24 · **High-demand under $2,500:** 288
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-22
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| language.florist    | available | $14.99     | —             | high           | low    | 8      | name.com                                     |
-| arts.irish          | available | $7.49      | $22.49        | medium         | low    | 4      | namesilo                                     |
-| studies.org         | resell    | $101,200   | $21.99        | medium         | low    | 7      | GoDaddy.com, LLC                             |
-| arts.kiwi           | premium   | $81.90     | $81.90        | medium         | low    | 4      | namecheap                                    |
-| beauty.apartments   | available | $19.99     | —             | high           | low    | 6      | name.com                                     |
-| writing.me          | resell    | $4,351.60  | $27.99        | high           | low    | 7      | GoDaddy.com, LLC                             |
-| beauty.actor        | premium   | $78.54     | $78.54        | high           | low    | 6      | namesilo                                     |
-| beauty.archi        | available | $24.99     | —             | high           | low    | 6      | name.com                                     |
-| language.pw         | resell    | $5,748.85  | $27.99        | high           | low    | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
-| beauty.beauty       | premium   | $10,000    | —             | high           | low    | 6      | name.com                                     |
-| beauty.attorney     | available | $62.99     | $62.99        | high           | low    | 6      | namesilo                                     |
-| arts.lat            | resell    | —          | —             | medium         | low    | 4      | Porkbun LLC                                  |
-| beauty.blog         | premium   | $15,646.25 | —             | high           | low    | 6      | name.com                                     |
-| beauty.audio        | available | $104.99    | $114.99       | high           | low    | 6      | namesilo                                     |
-| beauty.asia         | resell    | —          | —             | high           | low    | 6      | INWX GmbH                                    |
-| beauty.boo          | premium   | $1,248.75  | —             | high           | low    | 6      | name.com                                     |
-| beauty.church       | available | $11.99     | —             | high           | low    | 6      | name.com                                     |
-| beauty.black        | resell    | —          | —             | high           | low    | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| beauty.boston       | premium   | $500       | —             | high           | low    | 6      | name.com                                     |
-| beauty.construction | available | $15.99     | —             | high           | low    | 6      | name.com                                     |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| language.florist      | available | $14.99    | —             | high           | low    | 8      | name.com                                                  |
+| beauty.degree         | available | $14.99    | —             | high           | low    | 6      | name.com                                                  |
+| studies.org           | resell    | $101,200  | $21.99        | medium         | low    | 7      | GoDaddy.com, LLC                                          |
+| beauty.shiksha        | premium   | $625      | —             | high           | low    | 6      | name.com                                                  |
+| classic.gallery       | available | $28.99    | $28.99        | medium         | low    | 7      | namesilo                                                  |
+| language.pw           | resell    | $5,748.85 | $27.99        | high           | low    | 8      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| beauty.study          | premium   | $640      | $640          | high           | low    | 6      | namesilo                                                  |
+| culture.hamburg       | available | $69.98    | $73.98        | medium         | low    | 7      | namecheap                                                 |
+| beauty.institute      | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC                                              |
+| history.accountant    | premium   | $455      | $65           | high           | low    | 7      | namecheap                                                 |
+| culture.ryukyu        | available | $17.98    | $22.98        | medium         | low    | 7      | namecheap                                                 |
+| beauty.lat            | resell    | —         | —             | high           | low    | 6      | Dynadot LLC                                               |
+| history.associates    | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                                                  |
+| history.accountants   | available | $43.99    | —             | high           | low    | 7      | name.com                                                  |
+| culture.international | resell    | —         | —             | medium         | low    | 7      | Dynadot Inc                                               |
+| history.attorney      | premium   | $242      | $242          | high           | low    | 7      | namesilo                                                  |
+| history.ag            | available | $89       | —             | high           | low    | 7      | name.com                                                  |
+| history.at            | resell    | —         | —             | high           | low    | 7      | Internet Service Fuchs KG ( https://nic.at/registrar/20 ) |
+| history.beer          | premium   | $47.20    | $29.50        | high           | low    | 7      | namesilo                                                  |
+| history.airforce      | available | $103.99   | $103.99       | high           | low    | 7      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 111,561 live domains                       |
+| 1,000-row public sample | 114,356 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 287 high-demand names under $2,500         |
+| Basic exported fields   | 288 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
