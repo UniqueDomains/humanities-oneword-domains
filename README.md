@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (75,078)
+# One-Word Humanities Domain Names (131,061)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-75%2C078%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-131%2C061%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **75,078 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **131,061 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 75,078 domains · **Median ask:** $386.13 · **High-demand under $2,500:** 212
+**Public extract:** 1,000 rows · **Live catalog:** 131,061 domains · **Median ask:** $433.73 · **High-demand under $2,500:** 270
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| classic.ac          | available | $28.98    | $76.98        | high           | low    | 7      | namecheap                                                 |
-| classic.gold        | resell    | —         | —             | high           | low    | 7      | DNSPod, Inc.                                              |
-| classic.ink         | premium   | $65       | $130          | high           | low    | 7      | namecheap                                                 |
-| classic.university  | available | $19.99    | $81.99        | high           | low    | 7      | name.com                                                  |
-| classic.red         | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC                                |
-| classic.london      | premium   | $135.09   | $59.99        | high           | low    | 7      | name.com                                                  |
-| history.accountants | available | $43.99    | —             | high           | low    | 7      | name.com                                                  |
-| classic.school      | resell    | —         | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| classic.phd         | premium   | $811.25   | $811.25       | high           | low    | 7      | name.com                                                  |
-| history.ag          | available | $89       | —             | high           | low    | 7      | name.com                                                  |
-| classic.zone        | resell    | —         | —             | high           | low    | 7      | DNSPod, Inc.                                              |
-| classic.review      | premium   | $6,250    | $125          | high           | low    | 7      | name.com                                                  |
-| history.airforce    | available | $103.99   | $103.99       | high           | low    | 7      | namesilo                                                  |
-| history.at          | resell    | —         | —             | high           | low    | 7      | Internet Service Fuchs KG ( https://nic.at/registrar/20 ) |
-| classic.run         | premium   | $130      | $260          | high           | low    | 7      | namecheap                                                 |
-| history.apartments  | available | $19.99    | —             | high           | low    | 7      | name.com                                                  |
-| history.auction     | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
-| classic.stream      | premium   | $1,107    | $116          | high           | low    | 7      | namesilo                                                  |
-| history.archi       | available | $24.99    | —             | high           | low    | 7      | name.com                                                  |
-| history.bot         | resell    | —         | —             | high           | low    | 7      | Dynadot, LLC                                              |
+| history.engineering | available | $11.99    | —             | high           | low    | 7      | name.com                                                  |
+| art.desi            | available | $19.98    | $22.98        | high           | medium | 3      | namecheap                                                 |
+| arts.voyage         | resell    | $9.99     | —             | high           | low    | 4      | Sav.com, LLC                                              |
+| art.catering        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| art.futbol          | available | $7.49     | $17.99        | high           | medium | 3      | namesilo                                                  |
+| studies.org         | resell    | $101,200  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC                                          |
+| art.charity         | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
+| art.guitars         | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                                  |
+| language.pics       | resell    | $1.99     | —             | high           | low    | 8      | Spaceship, Inc.                                           |
+| art.cloud           | premium   | $3,250    | $6,500        | high           | medium | 3      | namecheap                                                 |
+| art.storage         | available | $509.99   | $529.99       | high           | medium | 3      | namesilo                                                  |
+| art.business        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| art.consulting      | premium   | $854      | $854          | high           | medium | 3      | namesilo                                                  |
+| arts.audio          | available | $104.99   | $114.99       | high           | low    | 4      | namesilo                                                  |
+| art.camera          | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| art.coupons         | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                                 |
+| arts.builders       | available | $35.99    | $35.99        | high           | low    | 4      | namesilo                                                  |
+| art.capital         | resell    | —         | —             | high           | medium | 3      | Edomains LLC                                              |
+| art.dad             | premium   | $1,298.70 | $1,298.70     | high           | medium | 3      | namecheap                                                 |
+| arts.clinic         | available | $20.99    | $64.99        | high           | low    | 4      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 75,078 live domains                        |
+| 1,000-row public sample | 131,061 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 212 high-demand names under $2,500         |
+| Basic exported fields   | 270 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
