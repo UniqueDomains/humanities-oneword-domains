@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (202,783)
+# One-Word Humanities Domain Names (205,323)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-202%2C783%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-205%2C323%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **202,783 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **205,323 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 202,783 domains · **Median ask:** $300.28 · **High-demand under $2,500:** 299
+**Public extract:** 1,000 rows · **Live catalog:** 205,323 domains · **Median ask:** $297.34 · **High-demand under $2,500:** 290
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
 **Best for:** founders, investors, studios
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | history.engineering | available | $16.99    | $64.99        | high           | low    | 7      | namesilo         |
-| art.shiksha         | available | $10.55    | $41.60        | high           | medium | 3      | spaceship        |
+| art.shiksha         | available | $14.99    | $51.99        | high           | medium | 3      | namesilo         |
 | arts.trade          | resell    | $3,942.02 | —             | high           | low    | 4      | Spaceship, Inc.  |
-| art.beer            | premium   | $440      | $26.97        | high           | medium | 3      | dynadot          |
+| art.beer            | premium   | $512      | $29.50        | high           | medium | 3      | namesilo         |
 | arts.bayern         | available | $34.99    | $34.99        | high           | low    | 4      | namesilo         |
 | culture.xxx         | resell    | $154.98   | —             | high           | medium | 7      | GoDaddy.com, LLC |
-| art.black           | premium   | $2,200    | $2,200        | high           | medium | 3      | dynadot          |
+| art.black           | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship        |
 | arts.blackfriday    | available | $103.70   | $103.70       | high           | low    | 4      | spaceship        |
 | studies.org         | resell    | $101,200  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
 | art.boo             | premium   | $1,034.17 | $1,034.17     | high           | medium | 3      | spaceship        |
 | arts.catering       | available | $31.25    | $31.25        | high           | low    | 4      | spaceship        |
 | writing.me          | resell    | $4,351.60 | $27.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| art.cv              | premium   | $2,609.75 | $87.75        | high           | medium | 3      | namecheap        |
+| art.cv              | premium   | $2,077.76 | $69.86        | high           | medium | 3      | spaceship        |
 | arts.clothing       | available | $25.20    | $25.20        | high           | low    | 4      | cloudflare       |
 | art.app             | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| art.dentist         | premium   | $440      | $440          | high           | medium | 3      | dynadot          |
+| art.dentist         | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship        |
 | arts.country        | available | $2,060.25 | $2,060.25     | high           | low    | 4      | porkbun          |
 | art.financial       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
-| art.expert          | premium   | $854      | $854          | high           | medium | 3      | namesilo         |
+| art.expert          | premium   | $880      | $880          | high           | medium | 3      | dynadot          |
 | arts.creditcard     | available | $125.20   | $125.20       | high           | low    | 4      | cloudflare       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 202,783 live domains                                 |
+| 1,000-row public sample | 205,323 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 299 high-demand names under $2,500                   |
+| Basic exported fields   | 290 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Humanities Domain Names*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
