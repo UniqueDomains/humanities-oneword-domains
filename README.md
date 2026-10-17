@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (227,138)
+# One-Word Humanities Domain Names (228,838)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-227%2C138%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-228%2C838%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **227,138 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **228,838 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 227,138 domains · **Median ask:** $273.57 · **High-demand under $2,500:** 350
+**Public extract:** 1,000 rows · **Live catalog:** 228,838 domains · **Median ask:** $272.18 · **High-demand under $2,500:** 366
 
 **Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| history.engineering | available | $16.99    | $64.99        | high           | low    | 7      | namesilo         |
-| art.accountants     | available | $93.35    | $93.35        | high           | medium | 3      | spaceship        |
-| studies.org         | resell    | $101,200  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| art.beauty          | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship        |
-| art.diamonds        | available | $43.67    | $43.67        | high           | medium | 3      | spaceship        |
-| art.ac              | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
-| art.black           | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship        |
-| art.juegos          | available | $368.98   | $478.98       | high           | medium | 3      | namecheap        |
-| art.adult           | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.   |
-| art.cv              | premium   | $2,770.35 | $80.33        | high           | medium | 3      | namesilo         |
-| art.shiksha         | available | $14.99    | $51.99        | high           | medium | 3      | namesilo         |
-| art.app             | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| art.dentist         | premium   | $512      | $512          | high           | medium | 3      | namesilo         |
-| art.voting          | available | $978.60   | $978.60       | high           | medium | 3      | dynadot          |
-| art.express         | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| art.eco             | premium   | $8,187.96 | $63.30        | high           | medium | 3      | porkbun          |
-| arts.accountants    | available | $117.99   | $117.99       | high           | low    | 4      | namesilo         |
-| art.institute       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
-| art.expert          | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap        |
-| arts.associates     | available | $18.99    | $38.99        | high           | low    | 4      | namesilo         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| history.engineering | available | $16.99    | $64.99        | high           | low    | 7      | namesilo              |
+| art.desi            | available | $19.98    | $22.98        | high           | medium | 3      | namecheap             |
+| studies.org         | resell    | $101,200  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC      |
+| art.coupons         | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship             |
+| arts.builders       | available | $28.15    | $28.15        | high           | low    | 4      | spaceship             |
+| art.ac              | resell    | —         | —             | high           | medium | 3      | Porkbun LLC           |
+| art.degree          | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo              |
+| arts.clinic         | available | $10.92    | $60.14        | high           | low    | 4      | dynadot               |
+| art.capital         | resell    | —         | —             | high           | medium | 3      | Edomains LLC          |
+| art.flights         | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship             |
+| arts.condos         | available | $46.78    | $46.78        | high           | low    | 4      | spaceship             |
+| art.club            | resell    | —         | —             | high           | medium | 3      | Porkbun               |
+| art.free            | premium   | $2,587.70 | $2,587.70     | high           | medium | 3      | spaceship             |
+| arts.construction   | available | $38.99    | $38.99        | high           | low    | 4      | namesilo              |
+| art.design          | resell    | —         | —             | high           | medium | 3      | Go France Domains Inc |
+| art.racing          | premium   | $116      | $116          | high           | medium | 3      | namesilo              |
+| arts.coupons        | available | $2.27     | $43.67        | high           | low    | 4      | spaceship             |
+| art.estate          | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC          |
+| art.tech            | premium   | $2,750    | $11,000       | high           | medium | 3      | dynadot               |
+| arts.cx             | available | $19.98    | $26.98        | high           | low    | 4      | namecheap             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 227,138 live domains                                 |
+| 1,000-row public sample | 228,838 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 350 high-demand names under $2,500                   |
+| Basic exported fields   | 366 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
