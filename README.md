@@ -1,10 +1,10 @@
-# One-Word Humanities Domain Names (206,101)
+# One-Word Humanities Domain Names (206,436)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-206%2C101%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-206%2C436%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a curated set of one-word Humanities domain names spanning 506 different TLDs, with a median asking price of $660. Updated daily, the selection covers over 122,000 domain names, giving investors and founders a broad base to compare pricing, renewal costs, and brand fit before choosing a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **206,101 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **206,436 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 206,101 domains · **Median ask:** $284.56 · **High-demand under $2,500:** 4,654
+**Public extract:** 1,000 rows · **Live catalog:** 206,436 domains · **Median ask:** $283.42 · **High-demand under $2,500:** 4,664
 
 **Last updated:** 2026-11-01
 **Canonical page:** `https://unique.domains/domains/sector/humanities`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| history.engineering | available | $16.99    | $64.99        | high           | low    | 7      | namesilo                                |
-| art.desi            | available | $19.98    | $22.98        | high           | low    | 3      | namecheap                               |
-| studies.org         | resell    | $101,200  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC                        |
-| art.associates      | premium   | $414.20   | $414.20       | high           | high   | 3      | spaceship                               |
-| art.futbol          | available | $5.98     | $8.48         | high           | high   | 3      | namecheap                               |
-| culture.cam         | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                         |
-| art.charity         | premium   | $207.20   | $207.20       | high           | high   | 3      | spaceship                               |
-| art.republican      | available | $5.38     | $26           | high           | high   | 3      | spaceship                               |
-| culture.cool        | resell    | —         | —             | high           | medium | 7      | DNSPod, Inc.                            |
-| art.college         | premium   | $13,800   | $13,800       | high           | high   | 3      | namesilo                                |
-| art.shiksha         | available | $10.92    | $41.81        | high           | high   | 3      | dynadot                                 |
-| culture.gallery     | resell    | —         | —             | high           | medium | 7      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| art.cyou            | premium   | $310.70   | $621.20       | high           | high   | 3      | spaceship                               |
-| art.theatre         | available | $538.98   | $620          | high           | high   | 3      | namecheap                               |
-| culture.gold        | resell    | —         | —             | high           | medium | 7      | DNSPod, Inc.                            |
-| art.degree          | premium   | $1,107    | $1,107        | high           | high   | 3      | namesilo                                |
-| art.vana            | available | $2,060.25 | $2,060.25     | high           | high   | 3      | porkbun                                 |
-| culture.homes       | resell    | —         | —             | high           | medium | 7      | UM Domains Pte. Ltd.                    |
-| art.fast            | premium   | $650      | $650          | high           | high   | 3      | namecheap                               |
-| art.viajes          | available | $35.18    | $35.18        | high           | high   | 3      | spaceship                               |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| history.engineering | available | $16.99    | $64.99        | high           | low    | 7      | namesilo          |
+| art.shiksha         | available | $10.92    | $41.81        | high           | high   | 3      | dynadot           |
+| studies.org         | resell    | $101,200  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC  |
+| art.beer            | premium   | $414.20   | $26.08        | high           | high   | 3      | spaceship         |
+| arts.accountants    | available | $135.48   | $160.98       | high           | high   | 4      | namecheap         |
+| writing.me          | resell    | $4,351.60 | $27.99        | high           | low    | 7      | GoDaddy.com, LLC  |
+| art.black           | premium   | $2,070.20 | $2,070.20     | high           | high   | 3      | spaceship         |
+| arts.auto           | available | $1,863.20 | $2,064.20     | high           | high   | 4      | spaceship         |
+| culture.cc          | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC  |
+| art.construction    | premium   | $78.54    | $78.54        | high           | high   | 3      | namesilo          |
+| arts.bayern         | available | $34.99    | $34.99        | high           | high   | 4      | namesilo          |
+| culture.chat        | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC  |
+| art.cv              | premium   | $2,072.06 | $69.86        | high           | high   | 3      | spaceship         |
+| arts.blackfriday    | available | $103.70   | $103.70       | high           | high   | 4      | spaceship         |
+| culture.coach       | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 41 |
+| art.dentist         | premium   | $414.20   | $414.20       | high           | high   | 3      | spaceship         |
+| arts.cash           | available | $12.99    | $38.99        | high           | high   | 4      | namesilo          |
+| culture.fyi         | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC      |
+| art.expert          | premium   | $828.20   | $828.20       | high           | high   | 3      | spaceship         |
+| arts.catering       | available | $45.48    | $53.98        | high           | high   | 4      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 206,101 live domains                                 |
+| 1,000-row public sample | 206,436 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 4,654 high-demand names under $2,500                 |
+| Basic exported fields   | 4,664 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
