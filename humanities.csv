@@ -173,11 +173,10 @@ f3d1b106-6bb0-41cc-b653-e5cb7accd2a5,studies.fail,available,38.99,38.99,high,low
 3a22891c-6488-44da-8718-e278411c5a7b,philosophy.cool,available,9.49,44.99,high,low,10,namesilo,,,27/09/2026 13:03
 10bf753d-06f1-4071-8028-244954a9db21,literature.phd,premium,111.25,111.25,high,low,10,name.com,,,24/08/2026 02:03
 70b280fc-7543-4543-967b-24a3d56f03a5,history.claims,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 17:27
-8d1b32a3-4fba-4cc3-b493-8c2bae6c7f66,arts.schule,available,34.99,34.99,high,high,4,namesilo,,,31/10/2026 13:41
+8d1b32a3-4fba-4cc3-b493-8c2bae6c7f66,arts.schule,available,33.98,37.98,high,high,4,namecheap,,,06/11/2026 02:33
 4938df06-34b4-4240-ae83-bc78c5024b67,philosophy.icu,premium,384,768,high,low,10,namesilo,,,27/09/2026 13:03
 d0cab388-c1a6-4b28-9f87-e00d1b456cbb,philosophy.reise,available,77.83,77.83,high,low,10,spaceship,,,27/09/2026 13:03
 57cf019a-d330-4807-80b2-f2a8834a3995,studies.security,available,1999.99,2049.99,high,low,7,namesilo,,,16/09/2026 11:06
-aaf2f18d-608c-4404-84ed-32037dacf67c,arts.school,premium,854,854,high,high,4,namesilo,,,31/10/2026 13:41
 056cd0ea-9a48-4786-980e-48bdf4412e51,studies.rest,available,2.19,28.99,high,low,7,namesilo,,,16/09/2026 11:06
 d733e012-68af-445f-a736-9c02492f62af,art.degree,premium,1107,1107,high,high,3,namesilo,,,01/11/2026 07:38
 4a37ba34-7996-4db6-a007-47087b2f2ed8,philosophy.center,resell,,,high,low,10,,,,27/09/2026 13:03
@@ -195,6 +194,7 @@ d0fcf36e-511f-482d-9707-0a413f74929e,studies.vana,available,2298,2498,high,low,7
 94857ba4-5144-473d-b59c-24f46791367d,philosophy.wiki,resell,,,high,low,10,,,,27/09/2026 13:03
 681b43ef-3762-4f2d-b09c-ec69feafeeb9,studies.net,resell,,,high,low,7,Whois Corp.,18/01/2001 11:31,18/01/2027 11:31,26/09/2026 09:21
 d3f57d6a-fd32-433f-98fe-d70c76897e08,history.delivery,available,6.5,,high,low,7,unstoppable,,,28/09/2026 17:27
+aaf2f18d-608c-4404-84ed-32037dacf67c,arts.school,premium,414.2,828.2,high,high,4,spaceship,,,06/11/2026 02:33
 6cd649e8-a716-4a85-83de-14e6da029a6a,culture.study,premium,517.7,517.7,high,medium,7,spaceship,,,04/10/2026 20:02
 a9c3f2a9-1288-42d4-8db5-ee7ded56ff33,history.law,available,83,83,high,low,7,spaceship,,,28/09/2026 17:27
 873c6040-b849-434e-96d3-77f613ed74fc,studies.contractors,available,35.49,35.49,high,low,7,namesilo,,,16/09/2026 11:06
@@ -403,7 +403,7 @@ dfec4510-bdba-41cd-a952-aef97664b080,philosophy.site,premium,273.44,1092.18,high
 7720df51-56ac-44aa-92d0-169c5fa99d13,literature.markets,available,5.98,26.98,high,low,10,namecheap,,,24/08/2026 02:03
 d0545838-33ea-4fac-b4e8-9de93704efed,studies.tips,available,15.99,30.99,high,low,7,namesilo,,,16/09/2026 11:06
 c29318f3-5afe-4f9e-97d9-ac78ac5780b9,studies.solar,available,64.99,64.99,high,low,7,namesilo,,,16/09/2026 11:06
-45a2a51d-0aae-44f4-bc1d-5f4adbc441be,arts.college,premium,13800,13800,high,high,4,namesilo,,,31/10/2026 13:41
+45a2a51d-0aae-44f4-bc1d-5f4adbc441be,arts.college,premium,13800,13800,high,high,4,namesilo,,,06/11/2026 02:33
 8c9d2768-4b4f-44b8-ab0f-225d6089391b,history.diamonds,available,54.99,54.99,high,low,7,namesilo,,,28/09/2026 17:27
 2f1296f5-2775-4178-bf03-dfbe325410fc,literature.travel,available,23.98,186.98,high,low,10,namecheap,,,24/08/2026 02:03
 3cdc92cd-2d27-4ced-aaf3-bb6cb95074ff,philosophy.pics,available,1.99,32.49,high,low,10,namesilo,,,27/09/2026 13:03
@@ -461,8 +461,7 @@ e99104f5-d95f-4472-a233-970573da6d47,literature.barcelona,available,38.98,38.98,
 7920f9e5-7be1-4462-8ed4-d4e40ae772b3,philosophy.plus,available,4.34,43.67,high,low,10,spaceship,,,27/09/2026 13:03
 e12aae61-4c7f-4e61-80ff-2d5d8dc440ed,studies.apartments,available,57.99,57.99,high,low,7,namesilo,,,16/09/2026 11:06
 3bdd3ce9-8791-426a-aab8-6b67594e38a0,philosophy.parts,available,12.99,41.99,high,low,10,namesilo,,,27/09/2026 13:03
-9bdda629-6d01-45b9-a172-06fc2bb46f8c,arts.studio,available,,,high,low,4,,,,01/11/2026 09:02
-5fb769b7-f572-4a6b-8ae4-b9c536c64c1e,arts.university,premium,118.8,118.8,high,high,4,namesilo,,,31/10/2026 13:41
+5fb769b7-f572-4a6b-8ae4-b9c536c64c1e,arts.university,premium,102.67,102.67,high,high,4,spaceship,,,06/11/2026 02:33
 9c7889c6-c71b-4b66-93fb-57ec65260a4e,history.dev,premium,811.25,,high,low,7,name.com,,,28/09/2026 17:27
 65f13849-6d62-4bdc-bf27-acc45eff0d72,studies.website,premium,116,116,high,low,7,namesilo,,,16/09/2026 11:06
 a99debbb-4c4a-48e4-9c7e-35cea1aad0cc,philosophy.lifestyle,premium,455,650,high,low,10,namecheap,,,27/09/2026 13:03
@@ -494,7 +493,6 @@ ebde10de-cac6-47db-85cf-73bb7fde6a0e,studies.menu,available,27.99,27.99,high,low
 876cbc66-41d9-4bba-b97f-78fcbcf56c70,philosophy.jetzt,available,18.83,18.83,high,low,10,spaceship,,,27/09/2026 13:03
 aa148483-cdca-4f00-8903-b35b4554b4be,studies.land,available,5.98,54.98,high,low,7,namecheap,,,16/09/2026 11:06
 99693e9d-7593-41a3-b275-d019bcba5ffc,literature.at,available,,,high,low,10,,,,
-0323b02d-a485-4ee1-aee3-e61cbb0022ca,arts.kids,available,6.79,19.99,high,high,4,namesilo,,,31/10/2026 13:41
 8633c452-b955-4757-b149-64b333c92b04,history.tienda,available,59.99,59.99,high,low,7,namesilo,,,28/09/2026 17:27
 daaf6106-d973-45bb-94d0-9af44b779209,history.deals,premium,72.6,72.6,high,low,7,dynadot,,,28/09/2026 17:27
 7d9d8ce2-7fb9-41c0-af90-59baebed198d,studies.domains,available,44.98,53.98,high,low,7,namecheap,,,16/09/2026 11:06
@@ -541,7 +539,6 @@ a48702f8-dea9-4942-a222-9875f6b01f00,history.salon,available,57.99,57.99,high,lo
 8dff17c7-1ca0-4711-bd82-3e3bba593a11,philosophy.rich,available,78.99,160.71,high,low,10,porkbun,,,27/09/2026 13:03
 99a8342c-e120-4ed7-b4c6-b3a566b919ab,studies.deal,available,38.99,38.99,high,low,7,namesilo,,,16/09/2026 11:06
 298b6b51-e337-4ac5-8e5f-56fd23d966e5,studies.network,available,7.99,34.99,high,low,7,namesilo,,,16/09/2026 11:06
-50340c34-b843-4100-940f-75eab49f9de1,arts.sydney,available,58,58,high,high,4,namesilo,,,31/10/2026 13:41
 048938d7-52a2-4db8-98ff-89db9aaca033,studies.email,available,7.49,30.99,high,low,7,namesilo,,,16/09/2026 11:06
 6b457d30-173b-4987-9eda-db21308f7ea6,history.rodeo,available,12.99,12.99,high,low,7,namesilo,,,28/09/2026 17:27
 17e5136d-343c-4fbc-a09f-3451f50691eb,history.theatre,available,509.99,529.99,high,low,7,namesilo,,,28/09/2026 17:27
@@ -553,6 +550,7 @@ c0679198-8a21-43c8-a61d-fe9993ebc5bf,history.army,available,18.99,39.99,high,low
 0848d59e-871f-4237-89a6-2085e30ddf08,history.osaka,available,,,high,low,7,,,,14/10/2026 09:57
 867944eb-c147-4b78-9ca4-a5b6629af38a,literature.engineering,available,10.48,85.98,high,low,10,namecheap,,,24/08/2026 02:03
 27569e43-067e-493d-a286-e1bee0852e80,literature.tennis,available,65.99,65.99,high,low,10,namesilo,,,24/08/2026 02:03
+50340c34-b843-4100-940f-75eab49f9de1,arts.sydney,premium,9100.73,9100.73,high,high,4,namecheap,,,06/11/2026 02:33
 03c00076-f168-49d1-a4f1-30b4a232616c,philosophy.rent,available,17.99,59.99,high,low,10,namesilo,,,27/09/2026 13:03
 6a47faf1-66da-4b04-be75-fed869d17415,literature.viajes,available,37.99,37.99,high,low,10,namesilo,,,24/08/2026 02:03
 b133312b-b78f-49b3-8a86-7562c0595e9b,philosophy.express,available,30.2,30.2,high,low,10,cloudflare,,,27/09/2026 13:03
@@ -564,7 +562,7 @@ b133312b-b78f-49b3-8a86-7562c0595e9b,philosophy.express,available,30.2,30.2,high
 3638352f-5480-451c-9196-fc317c829c50,literature.blue,available,13.98,32.98,high,low,10,namecheap,,,24/08/2026 02:03
 a314cf3b-0565-4ee6-bd60-408b5046e0cc,philosophy.app,resell,,,high,low,10,,,,27/09/2026 13:03
 3edc1288-ea5d-462b-9f2d-d17246367bfd,history.io,resell,,,high,low,7,"GoDaddy.com, LLC",28/07/2021 21:11,28/07/2027 21:11,20/10/2026 09:19
-2b6212f6-ec23-42a6-b5bb-4fa919833c1b,arts.gripe,available,6.99,6.99,high,high,4,namesilo,,,31/10/2026 13:41
+2b6212f6-ec23-42a6-b5bb-4fa919833c1b,arts.gripe,available,5.66,5.66,high,high,4,porkbun,,,06/11/2026 02:33
 b516a002-5c6f-4f4b-a1ce-7fa0165d67cb,literature.movie,available,40.98,446.98,high,low,10,namecheap,,,24/08/2026 02:03
 801b1e08-87d7-4b0f-8161-cf09c8bfff55,philosophy.christmas,available,34.99,34.99,high,low,10,namesilo,,,27/09/2026 13:03
 601fd3b5-640a-4279-b806-3577879b6d3a,philosophy.community,available,35.2,35.2,high,low,10,cloudflare,,,27/09/2026 13:03
@@ -585,35 +583,30 @@ ea4f6cc4-c55b-4576-a734-bf40829f8524,studies.repair,available,12.99,36.99,high,l
 f6be35d2-be47-44ea-8a6a-5f0aaf6cca9c,literature.forex,available,11.98,133.98,high,low,10,namecheap,,,24/08/2026 02:03
 91cdfc86-5a18-4ff8-853f-fc962637e168,studies.gripe,available,6.99,6.99,high,low,7,namesilo,,,16/09/2026 11:06
 a5b54f4a-b26a-4de2-b65b-680b0d082293,history.florist,available,32.99,32.99,high,low,7,namesilo,,,28/09/2026 17:27
-d2af9339-e3f0-4ca7-8ad1-414df1ac620a,arts.photos,premium,,,high,high,4,"Spaceship, Inc.",10/05/2026 13:36,10/05/2027 13:36,31/10/2026 13:41
-5d090f4d-2a86-468d-bda1-9cf5d8e1d944,arts.boutique,premium,85.8,85.8,high,high,4,namecheap,,,31/10/2026 13:41
+5d090f4d-2a86-468d-bda1-9cf5d8e1d944,arts.boutique,premium,85.8,85.8,high,high,4,namecheap,,,06/11/2026 02:33
 1732e864-731e-4356-8193-101c1aa03f65,art.press,premium,2587.7,5175.2,high,high,3,spaceship,,,01/11/2026 07:38
-aa2146e2-2749-455c-bce2-19ebc28714f3,arts.paris,premium,308.15,308.15,high,high,4,dynadot,,,31/10/2026 13:41
+aa2146e2-2749-455c-bce2-19ebc28714f3,arts.paris,premium,308.73,308.73,high,high,4,dynadot,,,06/11/2026 02:33
 4dfa6c42-cfa2-4f17-9f5e-3a850e354626,history.industries,available,45.99,45.99,high,low,7,namesilo,,,28/09/2026 17:27
 54624438-fca6-49f5-8ac7-27ae52ccd48a,literature.expert,available,,,high,low,10,,,,
 d7b58c2a-30a3-4659-bed0-39e96a70cb27,philosophy.cloud,resell,,,high,low,10,,,,27/09/2026 13:03
 6bf2107e-678d-43ea-bff4-da4df6525c79,studies.vin,available,8.99,59.99,high,low,7,namesilo,,,16/09/2026 11:06
 d5588358-6cc8-4bbf-97ad-a16e56f0b992,studies.diamonds,available,54.99,54.99,high,low,7,namesilo,,,16/09/2026 11:06
 5afc1e3a-30ec-45d5-a374-d1d2c67d4b0d,studies.rip,available,23.49,23.49,high,low,7,namesilo,,,16/09/2026 11:06
-873f3881-957d-4b88-89af-d71422219fa3,culture.world,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",01/04/2017 07:55,01/04/2027 07:55,04/10/2026 20:02
 67552bcf-3d0d-4b4a-94c8-58b030736f82,philosophy.audio,available,104.99,114.99,high,low,10,namesilo,,,27/09/2026 13:03
 290d2c52-2746-4fdb-8bb5-378f7d8d0d5c,studies.london,premium,137.98,31.8,high,low,7,namesilo,,,16/09/2026 11:06
 40015706-072d-429f-87a9-95a36fa19ad5,literature.partners,available,10.48,88.98,high,low,10,namecheap,,,24/08/2026 02:03
 825401fe-9832-4000-ac0f-da32409753c8,culture.legal,available,5.57,59.07,high,medium,7,dynadot,,,04/10/2026 20:02
-aa9ec572-74e2-4007-9335-c273f6617fea,arts.legal,available,83.48,98.98,high,high,4,namecheap,,,31/10/2026 13:41
 356b439e-241a-48af-aa1b-4691288e1e56,history.film,available,,,high,low,7,,,,14/10/2026 09:57
 0b6849a5-8cd1-48df-9eda-9badcda09214,studies.yoga,resell,,,high,low,7,"GoDaddy.com, LLC",26/08/2020 18:46,26/08/2027 18:46,26/09/2026 09:21
 ffaf385c-42a8-449d-b278-5309b4234fb7,writing.shiksha,available,10.55,41.6,high,low,7,spaceship,,,28/09/2026 23:21
-616b6cb4-2e67-4fa4-bfdf-4e392ddf4333,arts.lawyer,premium,4140,4140,high,high,4,namesilo,,,31/10/2026 13:41
 4ad9d2dd-4274-4ebb-9ac5-d68aab1a6e7a,history.media,resell,,,high,low,7,"Sav.com, LLC - 21",20/09/2026 15:15,20/09/2027 15:15,28/09/2026 17:27
 e0aba970-3b35-40f9-b62e-d6ee203c9d24,history.cab,available,32.99,32.99,high,low,7,namesilo,,,28/09/2026 17:27
 c1231a60-6685-44db-a673-2b75a5591f19,history.jetzt,available,23.99,23.99,high,low,7,namesilo,,,28/09/2026 17:27
 58f3441d-3350-41ac-a55a-382d13dcaa26,studies.inc,premium,2061.5,2660,high,low,7,namesilo,,,16/09/2026 11:06
 3d489db1-3062-4eae-a7a1-cd812d45f516,art.prof,premium,,,high,high,3,"GoDaddy.com, LLC",16/05/2023 18:16,16/05/2033 18:16,01/11/2026 07:38
-d116a63e-6546-41be-8651-b355cf12ad20,arts.immobilien,available,30.22,30.22,high,high,4,spaceship,,,31/10/2026 13:41
 6acf4075-dd2a-4c4b-9a9e-7f69bf8c0aeb,history.charity,available,6.41,22.39,high,low,7,spaceship,,,28/09/2026 17:27
 829d14c0-df5d-4699-81f0-5f4682127912,studies.protection,available,1999.99,2049.99,high,low,7,namesilo,,,16/09/2026 11:06
-3df58685-077e-47fe-8ad6-4ec644fb4a8b,arts.mom,premium,832,832,high,high,4,namesilo,,,31/10/2026 13:41
+3df58685-077e-47fe-8ad6-4ec644fb4a8b,arts.mom,premium,710.1,710.1,high,high,4,porkbun,,,06/11/2026 02:33
 45f47f76-e958-415e-80ad-0ab71f736a41,literature.surf,available,1.98,43.98,high,low,10,namecheap,,,24/08/2026 02:03
 febee326-f1dc-405b-91fc-e7ed1447cc16,studies.college,available,17.99,59.99,high,low,7,namesilo,,,16/09/2026 11:06
 81d81342-4d09-48ed-bebe-5a19c0fcb08e,studies.gmbh,available,45.99,45.99,high,low,7,namesilo,,,16/09/2026 11:06
@@ -622,12 +615,15 @@ febee326-f1dc-405b-91fc-e7ed1447cc16,studies.college,available,17.99,59.99,high,
 0526d841-c3d4-4851-b65c-99bc2ccb797e,history.deal,premium,103.7,103.7,high,low,7,spaceship,,,28/09/2026 17:27
 506b3c28-ec95-4b90-8a48-0e9f44eb57c0,literature.photos,available,8.98,40.98,high,low,10,namecheap,,,24/08/2026 02:03
 96548e6e-133f-466c-94e3-be8876a2de2b,history.direct,available,13.14,33.32,high,low,7,spaceship,,,28/09/2026 17:27
+aa9ec572-74e2-4007-9335-c273f6617fea,arts.legal,available,5.57,65.49,high,high,4,dynadot,,,06/11/2026 02:33
 fc7c1afb-1717-4676-8359-cd5a24753127,studies.wine,available,8.48,75.98,high,low,7,namecheap,,,16/09/2026 11:06
 c94a72ac-1adf-4cd4-a3dc-d27e3fbea237,philosophy.menu,available,27.99,27.99,high,low,10,namesilo,,,27/09/2026 13:03
 f526fac4-c4b3-49eb-8355-361028ea9930,art.quest,premium,2070.2,2070.2,high,high,3,spaceship,,,01/11/2026 07:38
-b751a8ba-884a-48be-9c8b-f078d6cadb9e,arts.theater,available,67.98,80.98,high,high,4,namecheap,,,31/10/2026 13:41
+616b6cb4-2e67-4fa4-bfdf-4e392ddf4333,arts.lawyer,premium,1639.13,3275.5,high,high,4,porkbun,,,06/11/2026 02:33
+b751a8ba-884a-48be-9c8b-f078d6cadb9e,arts.theater,available,51.95,51.95,high,high,4,spaceship,,,06/11/2026 02:33
 321d6286-b96c-4aa3-be76-a8b782ec5ff0,art.dad,premium,1034.17,1034.17,high,high,3,spaceship,,,01/11/2026 07:38
 29ddb6c7-5852-4c9d-b9a5-9b0975c59119,studies.singles,available,9.49,33.99,high,low,7,namesilo,,,16/09/2026 11:06
+d116a63e-6546-41be-8651-b355cf12ad20,arts.immobilien,available,30.22,30.22,high,high,4,spaceship,,,06/11/2026 02:33
 92399ade-0462-4830-a98e-d89f25b71c6c,philosophy.makeup,premium,2600,2600,high,low,10,namecheap,,,27/09/2026 13:03
 3232f4df-ff78-49f8-8658-82fc15ec22ca,culture.hiphop,available,,,high,medium,7,,,,11/10/2026 09:55
 e23b0ed6-22bf-4aa9-a2d9-d4ab51f36a9f,art.day,premium,1034.17,1034.17,high,high,3,spaceship,,,01/11/2026 07:38
@@ -648,10 +644,9 @@ b1928118-a809-4bd4-ab7a-aeaef931ef42,studies.beer,premium,47.2,29.5,high,low,7,n
 b27b7e19-0b77-4267-8d40-b06cf6ff80e2,history.dealer,premium,1604.45,2070.2,high,low,7,spaceship,,,28/09/2026 17:27
 3842c2ab-2a00-40d6-8f38-48b75c956336,studies.cruises,available,56.99,56.99,high,low,7,namesilo,,,16/09/2026 11:06
 148166d8-d8c2-4086-9ae3-edf043bb0438,literature.fast,premium,53.92,53.92,high,low,10,namesilo,,,24/08/2026 02:03
-30e4eb30-d2d7-4a11-8c7d-41e55c48c991,arts.ryukyu,available,17.98,22.98,high,high,4,namecheap,,,31/10/2026 13:41
 dc55f434-7c1d-4d4a-9297-800b1bb48689,history.hospital,available,57.99,57.99,high,low,7,namesilo,,,28/09/2026 17:27
 aac4a494-5a41-417f-94dc-06b3325ee449,philosophy.shiksha,available,10.55,41.6,high,low,10,spaceship,,,27/09/2026 13:03
-95ece194-9d38-4629-b9a7-e2a56afd8967,arts.cruises,available,56.99,56.99,high,high,4,namesilo,,,31/10/2026 13:41
+95ece194-9d38-4629-b9a7-e2a56afd8967,arts.cruises,available,44.71,44.71,high,high,4,spaceship,,,06/11/2026 02:33
 77f029e5-fe85-4c82-a38f-4af572687bb2,literature.cat,available,26.98,38.98,high,low,10,namecheap,,,24/08/2026 02:03
 a61e807c-e207-4e86-9e86-bcbadba39f5a,history.taxi,available,8.98,69.98,high,low,7,namecheap,,,28/09/2026 17:27
 f23df3b4-26cd-4c38-9d94-a2bf494bb8df,philosophy.auto,available,2070,2950,high,low,10,namecheap,,,27/09/2026 13:03
@@ -667,24 +662,25 @@ f23df3b4-26cd-4c38-9d94-a2bf494bb8df,philosophy.auto,available,2070,2950,high,lo
 7fd00599-f19e-4eaf-9849-b71536cdea39,philosophy.vana,available,2060.25,2060.25,high,low,10,porkbun,,,27/09/2026 13:03
 88d12c2f-c1df-44a9-a1d6-0857e2d2cce9,culture.tube,premium,2600,26,high,medium,7,namecheap,,,04/10/2026 20:02
 8b83f01b-5bb3-43f8-bf1a-f48880d0f186,literature.sucks,available,218.99,218.99,high,low,10,namesilo,,,24/08/2026 02:03
-6a6d7dee-d314-48e8-91f5-e9fcf0c2660f,arts.best,premium,1160.73,1160.73,high,high,4,namecheap,,,31/10/2026 13:41
+6a6d7dee-d314-48e8-91f5-e9fcf0c2660f,arts.best,premium,1148.58,1148.58,high,high,4,namesilo,,,06/11/2026 02:33
 417d4557-3945-4c44-9a16-f654ba893f34,literature.sexy,available,2749.99,2749.99,high,low,10,namesilo,,,24/08/2026 02:03
-9ce19505-26fe-4112-86de-059bc5222733,arts.ing,premium,650.2,672.95,high,high,4,unstoppable,,,31/10/2026 13:41
+9ce19505-26fe-4112-86de-059bc5222733,arts.ing,premium,672.95,672.95,high,high,4,spaceship,,,06/11/2026 02:33
 dc5f8f9b-ed24-43f0-b299-34aba00b2111,art.cloud,premium,6900,6900,high,high,3,namesilo,,,01/11/2026 07:38
 325f6026-bf3e-4770-920f-5a0b21672b46,art.webcam,premium,550,71.5,high,high,3,dynadot,,,01/11/2026 07:38
 c0929e49-d5b6-48d3-885e-4b9373795086,history.hosting,available,279.65,341.75,high,low,7,spaceship,,,28/09/2026 17:27
 8ab77ed1-569f-4662-94a7-e540fcaac0da,philosophy.living,premium,640,640,high,low,10,namesilo,,,27/09/2026 13:03
+30e4eb30-d2d7-4a11-8c7d-41e55c48c991,arts.ryukyu,available,17.98,22.98,high,high,4,namecheap,,,06/11/2026 02:33
 e2e35854-e967-4a3e-98ed-e64065d1923a,studies.gives,available,14.99,23.99,high,low,7,namesilo,,,16/09/2026 11:06
-cb7e5961-ce40-4c78-ad27-990538f83ca9,arts.rich,available,94.99,1999,high,high,4,namesilo,,,31/10/2026 13:41
+cb7e5961-ce40-4c78-ad27-990538f83ca9,arts.rich,available,94.99,1999,high,high,4,namesilo,,,06/11/2026 02:33
 a455087b-300e-4a58-bb62-653eb9f66b1f,history.hiv,available,,,high,low,7,,,,14/10/2026 09:57
 e69918e1-220f-4291-931f-fcbae592dde6,literature.coach,available,11.98,95.98,high,low,10,namecheap,,,24/08/2026 02:03
 1ac01e84-ee94-428c-8869-9d11d57fa115,philosophy.cam,available,2.98,22.98,high,low,10,namecheap,,,27/09/2026 13:03
-7a4fcdc0-604b-4e3d-9f57-6eccdcaac5ef,arts.glass,available,58.16,58.16,high,high,4,spaceship,,,31/10/2026 13:41
+7a4fcdc0-604b-4e3d-9f57-6eccdcaac5ef,arts.glass,available,56.2,56.2,high,high,4,cloudflare,,,06/11/2026 02:33
 7bed4eda-2038-4bbe-b435-1cfd4ae3f2b4,literature.christmas,available,1.8,49.98,high,low,10,namecheap,,,24/08/2026 02:03
 296a25a8-f17b-44de-8bd3-285defceddc5,literature.services,available,5.48,51.98,high,low,10,namecheap,,,24/08/2026 02:03
 c06243f8-ffa3-4960-8fde-ae0a16c0e53c,history.glass,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 17:27
 11641b2d-61c0-43af-9f25-a9a4ecabc853,history.guitars,available,108.98,159.98,high,low,7,namecheap,,,28/09/2026 17:27
-6255e617-18bd-4217-978c-abfcbb389fa4,culture.film,premium,110,110,high,medium,7,dynadot,,,04/10/2026 20:02
+6255e617-18bd-4217-978c-abfcbb389fa4,culture.film,premium,116,116,high,medium,7,namesilo,,,06/11/2026 02:36
 20cee452-82ec-4ddc-b3c5-7bb67f5f2fd7,literature.sh,available,34.98,76.98,high,low,10,namecheap,,,24/08/2026 02:03
 22a9c35f-5974-4ee9-9d81-7af1bdb8a457,studies.codes,available,8.99,71.99,high,low,7,namesilo,,,16/09/2026 11:06
 999101c1-3206-4491-bd03-2ef90fc94b37,literature.navy,available,41.99,41.99,high,low,10,namesilo,,,24/08/2026 02:03
@@ -692,7 +688,7 @@ c06243f8-ffa3-4960-8fde-ae0a16c0e53c,history.glass,available,58.16,58.16,high,lo
 4171420d-cd47-4a11-8ec5-70437184eb28,philosophy.car,available,2140.22,2140.22,high,low,10,dynadot,,,27/09/2026 13:03
 7ab9c24e-439e-4495-83e8-add3eebdd807,history.vana,available,2070.2,2070.2,high,low,7,spaceship,,,28/09/2026 17:27
 aed1e69b-4ff9-492f-bc3f-847bd15b8e39,humanities.cat,available,18.83,25.04,high,low,10,spaceship,,,28/09/2026 22:20
-02bdd092-200e-4793-92f8-26027dcac6d1,arts.expert,premium,880,880,high,high,4,dynadot,,,31/10/2026 13:41
+02bdd092-200e-4793-92f8-26027dcac6d1,arts.expert,premium,828.2,828.2,high,high,4,spaceship,,,06/11/2026 02:33
 6aeb7344-fe26-409f-824e-2d39c8b6a881,literature.clinic,available,11.98,82.98,high,low,10,namecheap,,,24/08/2026 02:03
 5b82aae8-d885-48a8-89c1-f625a4bfd198,history.ceo,premium,413.37,413.37,high,low,7,spaceship,,,28/09/2026 17:27
 23a8df25-9c4d-40cd-8573-8891cf264f85,literature.zone,available,8.98,51.98,high,low,10,namecheap,,,24/08/2026 02:03
@@ -711,7 +707,7 @@ ed525f63-224f-4e2f-bc20-a727128b8f31,literature.website,premium,625,1250,high,lo
 7bf2ece9-8a1c-4d0d-a3d2-934d496e5f6b,culture.moda,available,32.2,32.2,high,medium,7,cloudflare,,,04/10/2026 20:02
 bd9905d7-ebe2-49a3-b55c-ca96eac25689,art.guitars,available,93.35,103.4,high,high,3,spaceship,,,01/11/2026 07:38
 0c17a143-4773-4c8f-8f53-059d3b196846,literature.futbol,available,5.98,21.98,high,low,10,namecheap,,,24/08/2026 02:03
-51128933-0d0b-4f03-96f4-7b1c253a2a18,arts.accountant,premium,640,77.35,high,high,4,namesilo,,,31/10/2026 13:41
+51128933-0d0b-4f03-96f4-7b1c253a2a18,arts.accountant,premium,546.35,71.48,high,high,4,porkbun,,,06/11/2026 02:33
 53dc54a5-1e38-4c7d-bb75-4460a75f4ac8,studies.garden,available,2.19,32.49,high,low,7,namesilo,,,16/09/2026 11:06
 693e427f-e941-493b-9b88-e649526b4d98,culture.melbourne,premium,381.09,381.09,high,medium,7,dynadot,,,05/11/2026 07:07
 9a59c4ac-c3e8-4c25-8bc9-c3ee0f1c1a32,art.green,premium,650,650,high,high,3,namecheap,,,01/11/2026 07:38
@@ -750,25 +746,21 @@ ea3dccb6-b305-4838-b169-880e497ae60e,philosophy.archi,available,13.14,83,high,lo
 b3947eba-3b0c-4cbb-801d-4178861a9f0b,philosophy.network,resell,,,high,low,10,,,,27/09/2026 13:03
 92e55b64-0841-4596-9b3f-2966f9929b14,art.diy,premium,1449.2,2070.2,high,high,3,spaceship,,,01/11/2026 07:38
 ceaf26a2-c064-4f71-80f4-312557be3f83,studies.market,premium,242,242,high,low,7,namesilo,,,16/09/2026 11:06
-0debc7d8-0353-4349-a4f5-2f2de353c83f,arts.stream,premium,6900,116,high,high,4,namesilo,,,31/10/2026 13:41
-1b85f5c4-8f52-4618-b0d7-5f9aff2ae024,arts.contractors,available,5.57,32.32,high,high,4,dynadot,,,31/10/2026 13:41
 f9947441-ccf7-495b-b072-96ab378a3d0c,studies.ceo,premium,510.98,510.98,high,low,7,namesilo,,,16/09/2026 11:06
-bbc12e65-be31-41c8-801a-cba518267e06,arts.click,premium,110,110,high,high,4,dynadot,,,31/10/2026 13:41
+bbc12e65-be31-41c8-801a-cba518267e06,arts.click,premium,91,130,high,high,4,namecheap,,,06/11/2026 02:33
 bdd7cb64-d905-4ad7-bba4-173e5b1598bd,literature.kaufen,available,5.99,26.99,high,low,10,namesilo,,,24/08/2026 02:03
 218fcffa-80e6-4ba1-8d46-3c6f0728f0c4,studies.vc,available,32.98,41.98,high,low,7,namecheap,,,16/09/2026 11:06
 e7ee6b3a-6823-4354-808c-9eb82f43ed30,philosophy.agency,resell,,,high,low,10,,,,27/09/2026 13:03
 a90bc7a9-1e97-421b-9cb0-612f6b7b2a62,studies.qpon,available,2.19,11.49,high,low,7,namesilo,,,16/09/2026 11:06
-3c6608e7-d0cf-40ff-b4a8-518288b4c25c,arts.solutions,available,10.5,25.04,high,high,4,unstoppable,,,31/10/2026 13:41
-4963ea3a-45df-43c1-a5f3-45bbab4d6f4e,arts.boston,available,,,high,medium,4,,,,01/11/2026 09:02
+3c6608e7-d0cf-40ff-b4a8-518288b4c25c,arts.solutions,available,10.99,39.99,high,high,4,namesilo,,,06/11/2026 02:33
 ce257f55-6d86-4346-b5b2-e8cf6bbdd304,literature.coffee,available,6.98,47.98,high,low,10,namecheap,,,24/08/2026 02:03
 a79651f5-e4ca-47ba-a54d-9e9bc884acf6,philosophy.fast,premium,51.95,51.95,high,low,10,spaceship,,,27/09/2026 13:03
 4b181057-6726-4d92-9bdc-a8b71530cd93,literature.car,available,1999.99,2199,high,low,10,namesilo,,,24/08/2026 02:03
-088bb9e0-c938-42c9-9dea-abc686598cd0,arts.spot,premium,1107,1107,high,high,4,namesilo,,,31/10/2026 13:41
 082cb674-baa1-48f4-be20-e353b471e766,art.vacations,premium,54.36,108.6,high,high,3,porkbun,,,01/11/2026 07:38
 abc24d12-a6ac-40f2-a36e-f40f45b00e8e,philosophy.website,premium,,,high,low,10,,,,27/09/2026 13:03
-f52037d8-d2ea-445f-b36e-b40be353ef15,arts.exposed,premium,38.94,38.94,high,high,4,namesilo,,,31/10/2026 13:41
-251b4e6e-54e2-4b9d-af4d-d9f10b3c80be,arts.apartments,available,44.2,44.2,high,high,4,cloudflare,,,31/10/2026 13:41
-aedf4bf1-2f7c-4ba2-8d82-acf2a64ed52a,arts.juegos,available,321.22,321.22,high,high,4,dynadot,,,31/10/2026 13:41
+f52037d8-d2ea-445f-b36e-b40be353ef15,arts.exposed,premium,34.36,34.36,high,high,4,spaceship,,,06/11/2026 02:33
+251b4e6e-54e2-4b9d-af4d-d9f10b3c80be,arts.apartments,available,57.99,57.99,high,high,4,namesilo,,,06/11/2026 02:33
+aedf4bf1-2f7c-4ba2-8d82-acf2a64ed52a,arts.juegos,available,321.22,321.22,high,high,4,dynadot,,,06/11/2026 02:33
 1f6e4130-f0a1-44e8-9f5b-79744809754c,studies.autos,available,1.99,17.29,high,low,7,namesilo,,,16/09/2026 11:06
 b8775e7a-5f49-4247-a26b-d0b82640ba67,philosophy.theater,available,50.2,50.2,high,low,10,cloudflare,,,27/09/2026 13:03
 520b63a2-f3ee-4032-96c4-1041a1dd0f54,literature.domains,available,19.99,56.99,high,low,10,name.com,,,24/08/2026 02:03
@@ -777,6 +769,8 @@ a1f069ea-b044-4181-a616-0f428e49135d,philosophy.degree,premium,,,high,low,10,,,,
 c25c2026-f45a-4c57-abca-a9d1c5a037eb,studies.ninja,available,15.99,30.99,high,low,7,namesilo,,,16/09/2026 11:06
 e3362e01-cd51-42cb-aebc-b5614a35b3b0,philosophy.science,premium,2587.7,103.7,high,low,10,spaceship,,,27/09/2026 13:03
 b5dfa07a-392e-41c4-9e8c-808c0abdfc40,literature.trading,available,19.99,19.99,high,low,10,name.com,,,24/08/2026 02:03
+0debc7d8-0353-4349-a4f5-2f2de353c83f,arts.stream,premium,6500,130,high,high,4,namecheap,,,06/11/2026 02:33
+1b85f5c4-8f52-4618-b0d7-5f9aff2ae024,arts.contractors,available,28.15,28.15,high,high,4,spaceship,,,06/11/2026 02:33
 35aa7d96-ae4f-4056-a61d-aa64daf5644f,history.today,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",16/09/2018 09:42,16/09/2030 09:42,28/09/2026 17:27
 8a0cafc5-51c8-4bd2-bc1b-7c8e6ac46983,studies.center,premium,26,26,high,low,7,namecheap,,,16/09/2026 11:06
 1847ab72-4edf-436e-b79b-cef9525a1f1b,literature.engineer,available,17.99,56.99,high,low,10,name.com,,,24/08/2026 02:03
@@ -785,8 +779,9 @@ d214fa12-8387-4232-9c39-79a4da01193a,studies.cc,resell,,,high,low,7,Xin Net Tech
 d983c589-5cc6-4897-b012-7549d82b4eb6,literature.srl,available,31.99,31.99,high,low,10,namesilo,,,24/08/2026 02:03
 3ed1ad7d-d425-41b4-bf19-1dfbd034898d,philosophy.social,premium,854,854,high,low,10,namesilo,,,27/09/2026 13:03
 25e58218-8ede-4642-9ddb-83a3cb86102d,philosophy.diamonds,available,43.67,43.67,high,low,10,spaceship,,,27/09/2026 13:03
-5514ccea-d04f-4fb6-9657-9e5444f0f715,arts.broker,premium,5175.2,5175.2,high,high,4,spaceship,,,31/10/2026 13:41
+5514ccea-d04f-4fb6-9657-9e5444f0f715,arts.broker,premium,6500,6500,high,high,4,namecheap,,,06/11/2026 02:33
 b20a08b8-ee2b-4342-bce8-0e1ca4063bd1,literature.fish,available,14.99,56.99,high,low,10,name.com,,,24/08/2026 02:03
+088bb9e0-c938-42c9-9dea-abc686598cd0,arts.spot,premium,1035.2,1035.2,high,high,4,spaceship,,,06/11/2026 02:33
 cfd7fe4d-412f-46d2-b2f2-20e35792b443,literature.florist,available,14.99,46.99,high,low,10,name.com,,,24/08/2026 02:03
 029c2444-4db1-4f30-8b6b-fd344ae248ad,history.foundation,premium,38.94,38.94,high,low,7,namesilo,,,28/09/2026 17:27
 8c7d1e4a-05f3-43ed-8e24-ff224b240a42,art.car,available,2140.22,2140.22,high,high,3,dynadot,,,01/11/2026 07:38
@@ -797,14 +792,13 @@ a55f43c0-a4a6-44ba-a2f1-4fe6e05c275d,studies.free,premium,130,130,high,low,7,nam
 a1770344-1fa4-4b9d-87fd-7216b03a0a7a,literature.computer,available,22.48,48.98,high,low,10,namecheap,,,24/08/2026 02:03
 3cfd3ba9-d658-436c-b9c9-c59eb659becd,literature.diet,available,104.99,114.99,high,low,10,namesilo,,,24/08/2026 02:03
 86572214-f724-4557-96b5-3e3392d65745,philosophy.hair,premium,2660,2660,high,low,10,namesilo,,,27/09/2026 13:03
-db00b89e-6dd1-4db6-bbd9-2e7c64086351,arts.phd,premium,671.92,671.92,high,high,4,spaceship,,,31/10/2026 13:41
+db00b89e-6dd1-4db6-bbd9-2e7c64086351,arts.phd,premium,709.01,709.01,high,high,4,porkbun,,,06/11/2026 02:33
 fa6903e1-a600-45b3-b803-2c1aaef807f4,philosophy.healthcare,available,88.99,88.99,high,low,10,namesilo,,,27/09/2026 13:03
-23550295-4531-4f40-b63b-a2855dc4b326,arts.limo,available,43.67,43.67,high,high,4,spaceship,,,31/10/2026 13:41
+23550295-4531-4f40-b63b-a2855dc4b326,arts.limo,available,54.99,54.99,high,high,4,namesilo,,,06/11/2026 02:33
 85e62276-cb20-4c79-af9a-6a5cccd097f9,history.tennis,available,51.95,51.95,high,low,7,spaceship,,,28/09/2026 17:27
-551b6377-660f-4399-a217-2adc96597256,arts.property,available,,,high,low,4,,,,01/11/2026 09:02
 b55f22c4-a767-4cfa-8565-34b8d80eae01,literature.insure,available,9.99,94.99,high,low,10,name.com,,,24/08/2026 02:03
 b004a6d6-5d22-40bb-ac21-8afb028028b7,literature.blog,premium,640,2660,high,low,10,namesilo,,,24/08/2026 02:03
-76306c73-bc99-43c2-9a54-738d975ff81c,arts.observer,premium,20.9,20.9,high,high,4,spaceship,,,31/10/2026 13:41
+76306c73-bc99-43c2-9a54-738d975ff81c,arts.observer,premium,26,26,high,high,4,namecheap,,,06/11/2026 02:33
 db2fddcb-5e5d-43af-b973-280b1973bfd0,culture.mx,resell,,,high,medium,7,"AKKY ONLINE SOLUTIONS, S.A. DE C.V.",06/05/2017 00:00,06/05/2027 00:00,04/10/2026 20:02
 a2e9e2ed-1f1d-46db-8530-ae5983b223be,studies.camera,available,58.99,58.99,high,low,7,namesilo,,,16/09/2026 11:06
 53d7f838-76ee-47f2-9720-f8207c586df3,literature.cheap,available,5.98,49.98,high,low,10,namecheap,,,24/08/2026 02:03
@@ -813,7 +807,6 @@ f078ae9f-1747-4c6b-badb-653a8b006e8f,studies.baby,available,17.99,54.99,high,low
 0e1179d3-f024-4327-bef6-1d7e70c47063,culture.kaufen,available,23.2,23.2,high,medium,7,cloudflare,,,04/10/2026 20:02
 85ba547d-de83-49f4-9703-d3ab5940cc72,history.llc,premium,1107,1107,high,low,7,namesilo,,,28/09/2026 17:27
 58588b5f-4ae7-42f3-ad50-c22bb7dd40b0,literature.work,premium,302.5,11.8,high,low,10,namesilo,,,24/08/2026 02:03
-2d7d8d0a-533e-44ef-be89-cee723eb6ad4,arts.jetzt,available,18.83,18.83,high,high,4,spaceship,,,31/10/2026 13:41
 a27761eb-b804-42ce-a678-166c2290e07b,studies.moe,available,13.99,13.99,high,low,7,namesilo,,,16/09/2026 11:06
 55351722-340d-492a-9b8a-9785f656789a,art.hot,premium,3450,3450,high,high,3,namesilo,,,01/11/2026 07:38
 54b6dc69-5980-479a-ad98-308f98e3bb5f,literature.accountants,available,43.99,153.99,high,low,10,name.com,,,24/08/2026 02:03
@@ -828,8 +821,9 @@ ac2c6f95-956c-435e-a7f3-23d55dc8b1f1,literature.lease,available,14.99,71.99,high
 93fc9b60-e5fc-480d-b621-c1b25ff222dd,studies.kitchen,available,10.99,64.99,high,low,7,namesilo,,,16/09/2026 11:06
 21065178-6d9f-45a0-9843-6000ba049bf3,literature.page,premium,70.21,70.21,high,low,10,namesilo,,,24/08/2026 02:03
 ec8589be-657b-44ff-adb3-3bb9cfa126e6,literature.today,available,2.98,38.98,high,low,10,namecheap,,,24/08/2026 02:03
+2d7d8d0a-533e-44ef-be89-cee723eb6ad4,arts.jetzt,available,18.83,18.83,high,high,4,spaceship,,,06/11/2026 02:33
 62b17863-dacd-40ca-a524-9a317e66b770,studies.hamburg,available,69.98,73.98,high,low,7,namecheap,,,16/09/2026 11:06
-d5746609-ec57-4402-a69f-eb1d4d0b44ce,arts.christmas,available,1.24,31.16,high,high,4,spaceship,,,31/10/2026 13:41
+d5746609-ec57-4402-a69f-eb1d4d0b44ce,arts.christmas,available,30.2,30.2,high,high,4,cloudflare,,,06/11/2026 02:33
 19b9fabf-9bfe-4898-b165-6247b3a8086a,philosophy.dealer,premium,,,high,low,10,,,,27/09/2026 13:03
 111d3c33-3b67-4146-81fc-885f02e83613,culture.moi,available,27,25.99,high,medium,7,unstoppable,,,04/10/2026 20:02
 c95fc9e7-51a3-4ad5-b336-5431bda849c0,studies.stream,available,5.98,9.98,high,low,7,namecheap,,,16/09/2026 11:06
@@ -840,7 +834,6 @@ c95fc9e7-51a3-4ad5-b336-5431bda849c0,studies.stream,available,5.98,9.98,high,low
 31b07c2e-0737-4ba6-96b4-0c3add4709bc,culture.bid,premium,1107,116,high,medium,7,namesilo,,,04/10/2026 20:02
 2f3580f2-8952-429d-b6bc-41f3432982dd,studies.blog,premium,160,640,high,low,7,namesilo,,,16/09/2026 11:06
 822bfc1b-1587-4cef-925c-e3d74c32626d,studies.bike,available,12.99,38.99,high,low,7,namesilo,,,16/09/2026 11:06
-a65152ec-da87-436e-852d-4bed95e033bb,arts.free,premium,1107,1107,high,high,4,namesilo,,,31/10/2026 13:41
 b98ad134-c5cf-4abf-8354-7b5ac8f12868,history.shoes,available,64.99,64.99,high,low,7,namesilo,,,28/09/2026 17:27
 dce8c3b8-084c-49d9-bf97-c3eb34b1baf4,literature.build,premium,1875,1875,high,low,10,name.com,,,24/08/2026 02:03
 adfbced0-6b09-495c-8dcd-3779323b6e4f,culture.accountants,available,90.2,90.2,high,medium,7,cloudflare,,,04/10/2026 20:02
@@ -848,7 +841,7 @@ adfbced0-6b09-495c-8dcd-3779323b6e4f,culture.accountants,available,90.2,90.2,hig
 f1138c87-239a-4148-8954-b8e9055def15,history.foo,premium,257.92,257.92,high,low,7,spaceship,,,28/09/2026 17:27
 5093906b-01f8-4f82-b180-ac468b8f3c89,philosophy.rehab,available,29.18,29.18,high,low,10,spaceship,,,27/09/2026 13:03
 7395f29b-91c8-441c-a0af-966c5d34aefe,history.download,premium,650,84.5,high,low,7,namecheap,,,28/09/2026 17:27
-ddf805f6-7929-4285-a6c0-6695320e7da1,arts.ooo,premium,1091658.61,272.35,high,high,4,porkbun,,,31/10/2026 13:41
+ddf805f6-7929-4285-a6c0-6695320e7da1,arts.ooo,premium,1380000,318.72,high,high,4,namesilo,,,06/11/2026 02:33
 0c0ddc1d-5198-4d00-b23f-3843370ead60,studies.makeup,available,1.99,17.29,high,low,7,namesilo,,,16/09/2026 11:06
 2bddcbf3-0ec6-4ea9-934c-b69ad0ee5727,philosophy.you,premium,53.92,53.92,high,low,10,namesilo,,,27/09/2026 13:03
 e496d6d1-ddaf-4e33-80e9-35b58f66c453,art.airforce,available,103.99,103.99,high,high,3,namesilo,,,01/11/2026 07:38
@@ -860,6 +853,7 @@ e496d6d1-ddaf-4e33-80e9-35b58f66c453,art.airforce,available,103.99,103.99,high,h
 75ba8afc-0f4c-4c06-a078-30f98e3aecdb,studies.jetzt,available,23.99,23.99,high,low,7,namesilo,,,16/09/2026 11:06
 865b7dc6-fdd9-4bd2-bcdd-a5ec52224f09,culture.lighting,available,18.2,18.2,high,medium,7,cloudflare,,,04/10/2026 20:02
 84a2de24-373b-4336-b157-2131db8dfb0d,literature.game,available,309.99,329.99,high,low,10,namesilo,,,24/08/2026 02:03
+a65152ec-da87-436e-852d-4bed95e033bb,arts.free,premium,1107,1107,high,high,4,namesilo,,,06/11/2026 02:33
 ca589b62-26ea-4eb1-9b9d-069d887da882,literature.beer,available,1.98,43.98,high,low,10,namecheap,,,24/08/2026 02:03
 a660d24a-5214-4770-b871-d2f7a2530b7a,studies.computer,available,23.99,38.99,high,low,7,namesilo,,,16/09/2026 11:06
 02feb37c-3270-4d19-9ebc-1c84007eba13,studies.cleaning,available,75.49,75.49,high,low,7,namesilo,,,16/09/2026 11:06
@@ -883,7 +877,7 @@ fc9a57a5-499b-41f4-909e-ce42f423c4d9,studies.money,available,16.99,35.99,high,lo
 43aa9608-09f9-4d7e-a446-2f0d5a2d6fb2,literature.careers,available,28.98,89.98,high,low,10,namecheap,,,24/08/2026 02:03
 55317c7f-1555-4981-9d26-a84d5f5d55a5,philosophy.cash,available,12.99,38.99,high,low,10,namesilo,,,27/09/2026 13:03
 185399e1-c900-4906-8356-12288188422c,philosophy.courses,premium,6900,6900,high,low,10,namesilo,,,27/09/2026 13:03
-666adcb2-322b-40da-83ac-23d89f74b0d7,arts.mortgage,available,62.99,62.99,high,high,4,namesilo,,,31/10/2026 13:41
+666adcb2-322b-40da-83ac-23d89f74b0d7,arts.mortgage,available,62.99,62.99,high,high,4,namesilo,,,06/11/2026 02:33
 f7f72913-e8fd-4626-8acf-f858246c3b40,philosophy.engineer,available,30.2,30.2,high,low,10,cloudflare,,,27/09/2026 13:03
 e570c741-aadc-4ac9-b482-2bab800a5f02,culture.rehab,available,8.24,29.35,high,medium,7,porkbun,,,04/10/2026 20:02
 e1e154b9-295e-4192-8d2b-74ba4c5017c3,history.wine,premium,242,242,high,low,7,namesilo,,,28/09/2026 17:27
@@ -899,12 +893,12 @@ dccceabd-6fe2-42c9-9f95-cfeb73268bd0,studies.promo,available,14.49,24.99,high,lo
 e1619169-24be-421d-ae1a-2a25f1849ad9,literature.cyou,premium,68.43,147.2,high,low,10,namesilo,,,24/08/2026 02:03
 e77e7274-c720-4a51-a298-b37333b3ff4f,studies.nexus,premium,167.7,167.7,high,low,7,namecheap,,,16/09/2026 11:06
 939171d1-45b0-478b-b594-e8835e54c416,studies.golf,available,7.49,64.99,high,low,7,namesilo,,,16/09/2026 11:06
-3061d39c-6941-4b41-9600-22da893ff655,arts.surgery,available,54.99,54.99,high,high,4,namesilo,,,31/10/2026 13:41
+3061d39c-6941-4b41-9600-22da893ff655,arts.surgery,available,43.67,43.67,high,high,4,spaceship,,,06/11/2026 02:33
 974d64ad-4faf-476c-95c0-4ad05dbd2d4f,history.kim,available,5.38,18.83,high,low,7,spaceship,,,28/09/2026 17:27
 3fa301f2-892f-4bd0-a237-1af0e84112b6,studies.lgbt,premium,78.54,78.54,high,low,7,namesilo,,,16/09/2026 11:06
 b63df7e0-920a-48a9-87a0-a397c6b858d5,philosophy.travel,available,27.99,149.99,high,low,10,namesilo,,,27/09/2026 13:03
 95460f9a-2d6b-4295-a24c-70b4ec335bd7,studies.technology,available,12.99,28.49,high,low,7,namesilo,,,16/09/2026 11:06
-cac7d2a4-bdfc-465c-b97d-aaaa5ea5a5f0,arts.food,premium,181.33,258.95,high,high,4,spaceship,,,31/10/2026 13:41
+cac7d2a4-bdfc-465c-b97d-aaaa5ea5a5f0,arts.food,premium,181.33,258.95,high,high,4,spaceship,,,06/11/2026 02:33
 e0a7fba0-5cb9-44a4-82f7-c1010315a932,art.condos,premium,128.7,128.7,high,high,3,namecheap,,,01/11/2026 07:38
 a90a09cd-5c8d-4dcb-961e-9ac952d1c8b6,literature.training,available,8.98,53.98,high,low,10,namecheap,,,24/08/2026 02:03
 94416aca-99b5-4ec5-8d31-752d0202320c,literature.kiwi,available,31.98,35.68,high,low,10,namecheap,,,24/08/2026 02:03
@@ -913,21 +907,20 @@ c633bf6a-6ff4-4a59-9ab8-5003c745f49b,studies.vacations,available,38.99,38.99,hig
 cfa6da25-5eea-4e44-b4de-e341ad107f68,history.dating,available,20.99,64.99,high,low,7,namesilo,,,28/09/2026 17:27
 1b5632bb-dbe4-4d3f-a3b7-2d03a3277ae3,culture.furniture,available,26.5,94.99,high,medium,7,unstoppable,,,04/10/2026 20:02
 b271891f-bd44-43f7-aa62-a2af71eca04c,history.creditcard,available,156.98,168.98,high,low,7,namecheap,,,28/09/2026 17:27
-2423a6a7-e0ae-44de-bc63-921bc33d05dd,arts.porn,available,51.95,98.53,high,high,4,spaceship,,,31/10/2026 13:41
-8a69568e-da13-40d7-9ba6-fedfedb0f1cd,arts.dating,premium,207.2,207.2,high,high,4,spaceship,,,31/10/2026 13:41
+2423a6a7-e0ae-44de-bc63-921bc33d05dd,arts.porn,available,51.95,98.53,high,high,4,spaceship,,,06/11/2026 02:33
+8a69568e-da13-40d7-9ba6-fedfedb0f1cd,arts.dating,premium,242,242,high,high,4,namesilo,,,06/11/2026 02:33
 d241e06a-9a4f-44fb-aa48-db8f7d3d44eb,history.lgbt,premium,3750,,high,low,7,name.com,,,28/09/2026 17:27
 84bd3841-2e6d-402d-a952-0ec16acb9983,literature.maison,available,24.99,83.99,high,low,10,name.com,,,24/08/2026 02:03
 7ec3cac4-cd5d-4aa8-84f4-b7576a9dc56a,writing.review,premium,10350.2,103.7,high,low,7,spaceship,,,28/09/2026 23:21
 27f66974-b950-4ccc-8ee6-a233485a2eea,culture.sydney,available,58,58,high,medium,7,namesilo,,,05/11/2026 07:07
 a58b4f32-0ea6-451c-a487-64b0d2026865,literature.dance,available,10.48,36.98,high,low,10,namecheap,,,24/08/2026 02:03
-095d2d6c-fa43-432e-b6fa-e1d9dda71513,arts.ski,premium,118.8,118.8,high,high,4,namesilo,,,31/10/2026 13:41
+095d2d6c-fa43-432e-b6fa-e1d9dda71513,arts.ski,premium,99.5,118.8,high,high,4,unstoppable,,,06/11/2026 02:33
 966aee69-6e2d-4f2a-993b-e1e78ea507ba,history.dental,available,62.3,62.3,high,low,7,spaceship,,,28/09/2026 17:27
 2eab3576-0ddd-45c6-9122-020fb911942d,philosophy.army,available,15.73,31.25,high,low,10,spaceship,,,27/09/2026 13:03
 3c43360b-1366-4239-bf8f-9368ba3054d2,literature.world,resell,,,high,low,10,"Chengdu West Dimension Digital Technology Co., Ltd.",10/03/2018 09:07,10/03/2027 09:07,26/09/2026 07:16
 ad0d607e-a539-453a-b34b-315314280bd7,culture.place,available,18.41,18.41,high,medium,7,dynadot,,,04/10/2026 20:02
 97ec66d0-57f1-48ac-a06d-f772bc50c990,studies.bond,premium,68.43,147.2,high,low,7,namesilo,,,16/09/2026 11:06
 493774a8-52e8-4468-be91-a7b8621d5282,anthropology.schule,available,29.98,32.98,high,low,12,namecheap,,,29/09/2026 16:22
-32c1a559-c00a-4ba3-be74-8993bb9fb67e,arts.icu,premium,330,660,high,high,4,dynadot,,,31/10/2026 13:41
 665e66e5-4bd5-41aa-a5a7-1c8aa50ce213,art.market,available,,,high,low,3,,,,01/11/2026 09:02
 c62bdd5f-4b6f-41aa-826b-5e974d51983f,literature.vana,available,2298,2498,high,low,10,namecheap,,,24/08/2026 02:03
 54faacc5-1946-4e23-99c7-4d930f542fa1,studies.family,premium,71.4,71.4,high,low,7,namesilo,,,16/09/2026 11:06
@@ -940,7 +933,6 @@ b59cb659-c649-43aa-99da-6dbcdcd3de5c,studies.fyi,premium,17.7,17.7,high,low,7,na
 5666b361-cecb-431f-9bef-22384cd44bf7,philosophy.reisen,available,16.76,16.76,high,low,10,spaceship,,,27/09/2026 13:03
 4e643b14-77a9-4d85-af4c-965ba7b197d8,philosophy.lease,available,56.99,56.99,high,low,10,namesilo,,,27/09/2026 13:03
 8b0d655b-515d-4900-ae58-a72deb5aa061,philosophy.film,premium,116,116,high,low,10,namesilo,,,27/09/2026 13:03
-1ecf6537-0435-44ae-87da-e2c3c3bb0ac7,arts.adult,available,95.2,95.2,high,high,4,cloudflare,,,31/10/2026 13:41
 fcf4b441-cb7a-49d9-adc3-b9c45899d699,philosophy.vin,available,8.99,59.99,high,low,10,namesilo,,,27/09/2026 13:03
 9cc6019f-a37d-4085-ac06-ec25637ac4da,literature.chat,resell,,,high,low,10,Dynadot Inc,12/06/2026 07:05,12/06/2027 07:05,26/09/2026 07:16
 198e6f48-a7dd-484b-a45d-e37c68493dca,philosophy.actor,available,8.48,35.39,high,low,10,spaceship,,,27/09/2026 13:03
@@ -954,9 +946,9 @@ ae493a17-2bca-4da5-b7ef-063423754dbd,philosophy.click,premium,116,116,high,low,1
 05417df0-b73f-4ec5-ae72-14e4ba8fe7aa,history.boutique,available,5.99,32.99,high,low,7,namesilo,,,28/09/2026 17:27
 3e41fc5c-2b23-4bdc-8f41-947b7472fd03,studies.insure,available,72.99,72.99,high,low,7,namesilo,,,16/09/2026 11:06
 cc663051-c384-4042-bed1-acb9af1c6351,culture.site,premium,647.08,2587.7,high,medium,7,spaceship,,,04/10/2026 20:02
+32c1a559-c00a-4ba3-be74-8993bb9fb67e,arts.icu,premium,330,660,high,high,4,dynadot,,,06/11/2026 02:33
 6496b1a9-fa3c-4bad-86f2-246f72db68b8,writing.boston,available,23.49,23.49,high,low,7,namesilo,,,28/09/2026 23:21
 7c634014-2e20-4dd5-99c7-fd635c5e47c0,philosophy.vote,available,34.99,90.99,high,low,10,namesilo,,,27/09/2026 13:03
-7547e61d-080d-47b1-9f42-d8d9d02d26e1,arts.prof,premium,649.2,709.01,high,high,4,unstoppable,,,31/10/2026 13:41
 b1e82a5a-4bf8-49e4-b3d2-0d3d8bf6313a,history.day,premium,516.67,516.67,high,low,7,spaceship,,,28/09/2026 17:27
 a652cebe-d3dc-4ff9-8854-fb2e263513c9,philosophy.voyage,available,61.98,73.98,high,low,10,namecheap,,,27/09/2026 13:03
 793659db-8cbe-41a0-b646-b47fc6a24a90,art.contractors,premium,68.51,68.51,high,high,3,spaceship,,,01/11/2026 07:38
@@ -964,26 +956,27 @@ d864f0da-b07a-4d71-81ab-9bed587b86a8,studies.dad,premium,323.7,323.7,high,low,7,
 caf97fbf-b470-4118-9786-cfed42d6f7e2,literature.locker,premium,58.72,8.8,high,low,10,namesilo,,,24/08/2026 02:03
 a2c9e93a-0525-42e8-982b-456c1c80b9de,history.villas,available,47.81,47.81,high,low,7,spaceship,,,28/09/2026 17:27
 0a2d37c0-a4dd-42b1-a4eb-25f15fc8102b,philosophy.maison,available,13.59,47.3,high,low,10,dynadot,,,27/09/2026 13:03
-d484e441-8c6f-4cad-9db0-89aa2b97b6ab,arts.skin,premium,2600,2600,high,high,4,namecheap,,,31/10/2026 13:41
+d484e441-8c6f-4cad-9db0-89aa2b97b6ab,arts.skin,premium,2660,2660,high,high,4,namesilo,,,06/11/2026 02:33
+1ecf6537-0435-44ae-87da-e2c3c3bb0ac7,arts.adult,available,51.95,98.53,high,high,4,spaceship,,,06/11/2026 02:33
 13a6d75f-6079-4da6-89c8-350fffc148df,culture.srl,available,27.29,28.03,high,medium,7,porkbun,,,04/10/2026 20:02
 125330b8-0a97-4df0-bf41-7419e47ace2f,studies.charity,available,14.99,23.99,high,low,7,namesilo,,,16/09/2026 11:06
 5cea8e65-d38a-4a26-9dfc-eb0410f72fc2,philosophy.tools,available,7.45,29.18,high,low,10,spaceship,,,27/09/2026 13:03
 2a57a1a2-c751-41c5-8a93-20df0ae76d9e,culture.llc,premium,517.7,517.7,high,medium,7,spaceship,,,04/10/2026 20:02
-bb9f8ba1-94a2-43a5-83ae-be3766677e20,culture.games,resell,,,high,medium,7,"DNSPod, Inc.",14/02/2022 13:15,14/02/2027 13:15,04/10/2026 20:02
 b3f65fa6-fffe-42cb-a2aa-0088387565c1,literature.courses,premium,6900,6900,high,low,10,namesilo,,,27/09/2026 06:42
 9911d4ae-2de0-4b1f-b6c4-cad89b8b7621,philosophy.blue,available,19.99,24.99,high,low,10,namesilo,,,27/09/2026 13:03
 67feac4e-7795-441e-aaaf-202945e2f210,art.football,premium,,,high,high,3,united-domains GmbH,25/07/2020 11:48,25/07/2027 11:48,01/11/2026 07:38
 71e68bbe-75bd-4989-b1b2-7b229c6efb50,art.channel,premium,1091.09,1091.09,high,high,3,porkbun,,,01/11/2026 07:38
-99043fec-fee6-4bb3-85d8-3d4f352f6dc4,arts.bargains,available,11.96,24.83,high,high,4,dynadot,,,31/10/2026 13:41
+99043fec-fee6-4bb3-85d8-3d4f352f6dc4,arts.bargains,available,17.99,26.49,high,high,4,namesilo,,,06/11/2026 02:33
 51b896dc-f6f5-45e4-8e7f-cf5103ad7157,studies.sbs,premium,74.75,149.5,high,low,7,namecheap,,,16/09/2026 11:06
 b6a0f06f-f663-4b27-9c46-7e26617f493d,language.irish,available,9.99,37.99,high,medium,8,godaddy,,,29/10/2026 02:22
 d023d0d3-d341-49f7-bf13-8ba2825c39f8,history.music,available,,,high,low,7,,,,14/10/2026 09:57
 5dc3becb-b2c7-45cb-a007-50b5a0a489d5,art.care,premium,,,high,high,3,"GoDaddy.com, LLC",13/10/2026 12:25,13/10/2027 12:25,01/11/2026 07:38
+7547e61d-080d-47b1-9f42-d8d9d02d26e1,arts.prof,premium,649.2,709.01,high,high,4,unstoppable,,,06/11/2026 02:33
 f350beb3-fdac-4879-b9a6-c3488ec9b2b4,studies.news,available,8.98,41.48,high,low,7,namecheap,,,16/09/2026 11:06
 3133a005-217c-4362-8c75-a4ba20dc051e,studies.auto,available,1999.99,2199,high,low,7,namesilo,,,16/09/2026 11:06
 5b9a5524-a89b-4019-b372-13f07376cdeb,history.ing,premium,845,845,high,low,7,namecheap,,,28/09/2026 17:27
 4032520f-0059-44bc-85a0-0fa593de4ca9,literature.contact,available,13.98,16.78,high,low,10,namecheap,,,24/08/2026 02:03
-cb05ef85-8b07-490b-91af-bd3ce24e5742,arts.movie,available,37.67,321.22,high,high,4,dynadot,,,31/10/2026 13:41
+cb05ef85-8b07-490b-91af-bd3ce24e5742,arts.movie,available,37.67,321.22,high,high,4,dynadot,,,06/11/2026 02:33
 511a031c-8517-4145-8458-66efe0541820,studies.blue,available,19.99,24.99,high,low,7,namesilo,,,16/09/2026 11:06
 ed895125-f839-493f-88e2-7fc82b97b73e,culture.trading,resell,,,high,medium,7,"Spaceship, Inc.",13/07/2026 17:00,13/07/2027 17:00,04/10/2026 20:02
 ef9d9119-7740-46ec-8736-15b776fe35fe,studies.guitars,available,104.99,114.99,high,low,7,namesilo,,,16/09/2026 11:06
@@ -997,5 +990,12 @@ ca4b40c1-eb03-4c36-b6d7-b68628151ac7,art.tires,available,72.44,72.44,high,high,3
 0c945147-1893-4902-a52a-f0df2f4ff1f4,literature.top,premium,266.5,266.5,high,low,10,namesilo,,,24/08/2026 02:03
 b5af22cf-5bd9-4b77-8c0d-443c6f1dc92e,studies.tienda,available,59.99,59.99,high,low,7,namesilo,,,16/09/2026 11:06
 1c85722b-9440-49bf-9816-68f072976149,philosophy.fun,premium,682.81,2729.67,high,low,10,porkbun,,,27/09/2026 13:03
-8068f8b2-3490-4b39-9c8b-d2c7ebec40c6,arts.site,premium,647.08,2587.7,high,high,4,spaceship,,,31/10/2026 13:41
+8068f8b2-3490-4b39-9c8b-d2c7ebec40c6,arts.site,premium,647.08,2587.7,high,high,4,spaceship,,,06/11/2026 02:33
 bac4b806-3936-422f-9f7e-e6277737a7f9,philosophy.doctor,available,5.38,93.35,high,low,10,spaceship,,,27/09/2026 13:03
+f4dc1ab1-f150-465a-9859-a03ae9a1f648,studies.boston,available,23.49,23.49,high,low,7,namesilo,,,16/09/2026 11:06
+1aa34916-6641-482a-8076-2d462d4e1133,culture.security,available,2000.2,2000.2,high,medium,7,cloudflare,,,04/10/2026 20:02
+20dd0afb-b1c8-42f9-8b90-5ea08c782217,philosophy.kitchen,available,10.99,64.99,high,low,10,namesilo,,,27/09/2026 13:03
+0d240ad0-1bc3-42dc-8451-5ca221791831,philosophy.cruises,available,8.24,46.23,high,low,10,dynadot,,,27/09/2026 13:03
+e057914b-49e0-4a04-882f-d2b8f50d647b,history.melbourne,available,58,58,high,low,7,namesilo,,,28/09/2026 17:27
+64c8ae80-99bd-44c0-9990-d770551529d3,literature.degree,premium,71.4,71.4,high,low,10,namesilo,,,24/08/2026 02:03
+11a8d785-edab-448a-a128-b329057eee8b,philosophy.art,premium,348.17,76.94,high,low,10,porkbun,,,27/09/2026 13:03
